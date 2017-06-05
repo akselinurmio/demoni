@@ -1,0 +1,17 @@
+.Sitefooter {
+  border-top: .1em solid var(--color-text);
+  padding: var(--spacing) 0;
+}
+
+.Sitefooter-col-wrapper {
+
+}
+
+.Sitefooter-contactlist {
+  padding: 0;
+}
+
+.Sitefooter-contactlist-item {
+  display: block;
+  margin-bottom: calc(0.5 * var(--spacing));
+}

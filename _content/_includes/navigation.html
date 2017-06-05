@@ -1,0 +1,13 @@
+{% capture html %}
+{% assign entries = site.pages | sort: "path" %}
+{% for entry in entries %}
+
+  {% capture slug %}{{ entry.url | split: "/" | last }}{% endcapture %}
+  {% capture current %}{{ entry.url | remove: slug }}{% endcapture %}
+
+  {% if current == "//" %}
+    <a {% if page.url contains entry.url %}class="active" {% endif %}href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a>
+  {% endif %}
+
+{% endfor %}
+{% endcapture %}{{ html | strip_newlines | replace:"  ","" }}

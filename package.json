@@ -3,7 +3,20 @@
   "name": "demoni",
   "description": "Demonin verkkosivut",
   "version": "0.0.0",
+  "scripts": {
+    "build": "npm run postcss && bundle exec jekyll build",
+    "watch": "npm run postcss -- --watch & bundle exec jekyll build --watch",
+    "serve": "npm run watch & browser-sync start --server _site/ --files _site/",
+    "postcss": "postcss _styles/demoni.css --output _content/assets/demoni.css --use postcss-import postcss-cssnext",
+    "css:minify": "postcss _content/assets/demoni.css --output _content/assets/demoni.css --use cssnano"
+  },
   "dependencies": {
-    "normalize.css": "^5"
+    "browser-sync": "^2.18.8",
+    "cli-real-favicon": "0.0.6",
+    "cssnano": "^3.10.0",
+    "normalize.css": "^5.0.0",
+    "postcss-cli": "^3.0.0-beta",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.1.0"
   }
 }
