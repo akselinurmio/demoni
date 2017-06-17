@@ -6,7 +6,7 @@
   {% capture current %}{{ entry.url | remove: slug }}{% endcapture %}
 
   {% if current == "//" %}
-    <li><a {% if page.url contains entry.url %}class="active" {% endif %}href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></li>
+    <li><a {% if page.url contains entry.url %}class="active" {% endif %}href="{{ entry.url | relative_url }}"><span>{{ entry.title | escape }}</span></a></li>
   {% endif %}
 
 {% endfor %}
