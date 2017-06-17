@@ -5,26 +5,13 @@ Perustyylit
 html {
   background: var(--color-brand);
   color: var(--color-text);
-  font: 10px/1.5 var(--font-family-text);
-
-  @media (min-width: 0) {
-    font-size: 8.5px;
-  }
-  @media (--sm) {
-    font-size: 9px;
-  }
-  @media (--md) {
-    font-size: 9.5px;
-  }
-  @media (--lg) {
-    font-size: 10px;
-  }
   height: 100%;
+  font: 10px/1.75 var(--font-family-text);
 }
 
 body {
-  font-size: 1.6rem;
   background-color: var(--color-bg);
+  font-size: 1.7rem;
   min-height: 100%;
 }
 
