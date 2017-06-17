@@ -5,7 +5,24 @@ Perustyylit
 html {
   background: var(--color-bg);
   color: var(--color-text);
-  font: 16px/1.5 var(--font-family-text);
+  font: 10px/1.5 var(--font-family-text);
+
+  @media (min-width: 0) {
+    font-size: 8.5px;
+  }
+  @media (--sm) {
+    font-size: 9px;
+  }
+  @media (--md) {
+    font-size: 9.5px;
+  }
+  @media (--lg) {
+    font-size: 10px;
+  }
+}
+
+body {
+  font-size: 1.6rem;
 }
 
 /*
