@@ -3,6 +3,7 @@
 @import "normalize.css";
 
 @import "globals";
+@import "media-queries";
 @import "base";
 @import "layout";
 

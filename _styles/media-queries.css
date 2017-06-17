@@ -1,0 +1,11 @@
+/*
+Usage:
+
+@media (--sm) {
+  magic: such;
+}
+ */
+
+@custom-media --sm (min-width: 768px);
+@custom-media --md (min-width: 992px);
+@custom-media --lg (min-width: 1200px);
