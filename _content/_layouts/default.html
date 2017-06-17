@@ -45,12 +45,21 @@
 
         <div class="Sitefooter-col-wrapper">
           <div class="Sitefooter-col">
-            <ul class="Sitefooter-contactlist">
-              <li class="Sitefooter-contactlist-item">{{ site.longtitle | default: site.title | escape }}</li>
-              {% if site.email %}
-              <li class="Sitefooter-contactlist-item"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-              {% endif %}
-            </ul>
+            <div class="Sitefooter-contact">{% assign contact = site.data.contact %}
+              <p class="name">{{ site.longtitle }}</p>
+              <p class="streetaddress">
+                {{ contact.addresses.street | newline_to_br }}
+              </p>
+              <p class="postaladdress">{% assign postal = contact.addresses.postal %}
+                <span>{{ postal.recipient }}</span><br>
+                <span>{{ postal.street | newline_to_br }}</span><br>
+                <span>{{ postal.postalcode }}</span> <span>{{ postal.town }}</span>
+              </p>
+              <p class="phone">{{ contact.phone }}</p>
+              <p class="email"><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+              <p class="ytunnus">Y-tunnus: {{ contact.ytunnus }}</p>
+              <p class="yhdistysnumero">Yhdistysnumero: {{ contact.yhdistysnumero }}</p>
+            </div>
           </div>
 
           <div class="Sitefooter-col">
