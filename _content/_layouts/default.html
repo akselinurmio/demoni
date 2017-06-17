@@ -22,27 +22,23 @@
 
     <header class="Topbar">
 
-      <div class="wrapper">
+      <a class="Topbar-sitename" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
 
-        <a class="Topbar-sitename" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
-
-        <nav class="Topbar-nav">
-          {% include navigation.html %}
-        </nav>
-
-      </div>
+      <nav class="Topbar-nav">
+        {% include navigation.html %}
+      </nav>
 
     </header>
 
     <main class="Page-content">
-      <div class="wrapper">
+      <div class="container">
         {{ content }}
       </div>
     </main>
 
     <footer class="Sitefooter">
 
-      <div class="wrapper">
+      <div class="container">
 
         <div class="Sitefooter-col-wrapper">
           <div class="Sitefooter-col">
