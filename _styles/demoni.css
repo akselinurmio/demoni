@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Signika');
+@import url('https://fonts.googleapis.com/css?family=Noticia+Text:400,400i|Signika:300,400');
 
 @import "normalize.css";
 
 @import "globals";
+@import "media-queries";
 @import "base";
 @import "layout";
 

@@ -5,7 +5,24 @@ Perustyylit
 html {
   background: var(--color-bg);
   color: var(--color-text);
-  font: 16px/1.5 var(--font-family-text);
+  font: 10px/1.5 var(--font-family-text);
+
+  @media (min-width: 0) {
+    font-size: 8.5px;
+  }
+  @media (--sm) {
+    font-size: 9px;
+  }
+  @media (--md) {
+    font-size: 9.5px;
+  }
+  @media (--lg) {
+    font-size: 10px;
+  }
+}
+
+body {
+  font-size: 1.6rem;
 }
 
 /*
@@ -30,7 +47,7 @@ a {
   background-image: linear-gradient(to bottom, rgba(0,0,0,.6) 50%, rgba(0,0,0,0) 50%);
   background-repeat: repeat-x;
   background-size: 2px .1em;
-  background-position: 0 1.07em;
+  background-position: 0 1.2em;
 }
 
 /*

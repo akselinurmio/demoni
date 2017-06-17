@@ -15,6 +15,7 @@ Tyylitiedostot ovat puhtaassa CSS-muodossa ja kaikki tyylitiedostot ajetaan [css
 ## Development server
 
 ```sh
+git checkout master
 npm install
 npm run serve
 ```
@@ -22,6 +23,7 @@ npm run serve
 ## Production build
 
 ```sh
+git checkout gh-pages
 npm install
 npm run build
 ```
