@@ -2,10 +2,12 @@
 
 Saitti rakennetaan staattiseksi käyttäen [Jekylliä][1].
 
-Eli [Ruby][2] pitäisi olla asennettuna, kuten myös [Bundler][3]:
+Eli Node + npm ja Ruby (esim. [rvm:llä][2]) pitäisi olla asennettuna, kuten myös [Bundler][3]:
 
 ```sh
-$ gem install bundler
+curl -sSL https://get.rvm.io | bash -s stable
+gem install bundler
+bundle install
 ```
 
 Tyylitiedostot ovat puhtaassa CSS-muodossa ja kaikki tyylitiedostot ajetaan [cssnextin][4] läpi.
@@ -13,18 +15,18 @@ Tyylitiedostot ovat puhtaassa CSS-muodossa ja kaikki tyylitiedostot ajetaan [css
 ## Development server
 
 ```sh
-$ npm install
-$ npm run serve
+npm install
+npm run serve
 ```
 
 ## Production build
 
 ```sh
-$ npm install
-$ npm run build
+npm install
+npm run build
 ```
 
 [1]: https://jekyllrb.com/ "Jekyll"
-[2]: https://www.ruby-lang.org/en/documentation/installation/#homebrew "Ruby"
+[2]: https://rvm.io/ "RVM Ruby Version Manager"
 [3]: https://bundler.io/ "Bundler"
 [4]: http://cssnext.io/ "cssnext"
