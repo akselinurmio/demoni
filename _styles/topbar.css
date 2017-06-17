@@ -5,15 +5,7 @@
 
   font-family: var(--font-family-feature);
   font-weight: lighter;
-  font-size: 1.1em;
-}
-
-.Topbar-sitename {
-  display: block;
-  font-family: var(--font-family-feature);
-  font-size: 2em;
-  text-transform: lowercase;
-  background: none;
+  font-size: 1.2em;
 }
 
 .Topbar-nav {
@@ -38,7 +30,7 @@
       transform: skewX(-10deg);
 
       & > a {
-        padding: 1em 2.6em;
+        padding: .8em 2.2em;
         display: block;
 
         background: none;
@@ -65,12 +57,14 @@
 
       & span {
         transform: none;
+        margin-left: .5em;
+        margin-right: .5em;
       }
     }
   }
 
   & img {
-    height: 2.2em;
+    height: 2em;
     width: auto;
     position: absolute;
     left: 50%;
@@ -79,12 +73,6 @@
   }
 }
 
-.Topbar-navitem {
-  display: block;
-  background: none;
-  padding: calc(0.5 * var(--spacing)) 0;
-}
-
-.Topbar-navitem.active {
-
+.active {
+  text-decoration: underline;
 }
