@@ -22,10 +22,11 @@
 
     <header class="Topbar">
 
-      <a class="Topbar-sitename" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+      <!--<a class="Topbar-sitename" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>-->
 
       <nav class="Topbar-nav">
         <ul>
+          <li class="brand"><a href="{{ "/" | relative_url}}"><span>&nbsp;<img src="/assets/logo.svg" alt="Demoni-logo"></span></a></li>
           {% include navigation.html %}
         </ul>
       </nav>
