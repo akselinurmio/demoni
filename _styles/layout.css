@@ -1,6 +1,6 @@
-.wrapper {
+.container {
   margin-right: auto;
   margin-left: auto;
-  padding-right: 1em;
-  padding-left: 1em;
+  width: 90%;
+  max-width: 1270px;
 }
