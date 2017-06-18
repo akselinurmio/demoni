@@ -52,6 +52,12 @@
           transform: skewX(10deg);
         }
       }
+
+      & > a:hover {
+        & > span {
+          @apply --underline-far;
+        }
+      }
     }
 
     & > li:first-child {
@@ -73,11 +79,17 @@
         margin-left: .5em;
         margin-right: .5em;
       }
+
+      & a:hover {
+        & span {
+          background: none;
+        }
+      }
     }
 
     & li.active {
-      & a {
-        text-decoration: underline;
+      & span {
+        @apply --underline-far;
       }
     }
   }
