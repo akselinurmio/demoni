@@ -5,15 +5,18 @@
 
   font-family: var(--font-family-feature);
   font-weight: lighter;
+}
+
+.Topbar-nav {
   font-size: 1.2em;
+
+  border-bottom: .1rem solid var(--color-text);
 
   @media (--sm) {
     padding-top: var(--spacing);
     padding-bottom: var(--spacing);
   }
-}
 
-.Topbar-nav {
   & ul {
     list-style: none;
     margin: 0;
@@ -42,7 +45,7 @@
         background: none;
 
         @media (--sm) {
-          padding: .8em 2em;
+          padding: .9em 2em;
         }
 
         & > span {
@@ -104,6 +107,59 @@
 
     @media (--sm) {
       height: 2em;
+    }
+  }
+}
+
+.Topbar-subnav {
+  font-size: 1em;
+
+
+
+  & ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: row;
+
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+
+    & > li {
+      display: list-item;
+      flex: 0 0 auto;
+
+      & > a {
+        padding: calc(var(--spacing) * 1.5) 1.7em;
+        display: block;
+
+        background: none;
+
+        @media (--sm) {
+          padding: calc(var(--spacing) * 1.5) 2em;
+        }
+
+        & > span {
+          display: block;
+          position: relative;
+        }
+      }
+
+      & > a:hover {
+        & > span {
+          @apply --underline-far-thick;
+        }
+      }
+    }
+
+    & li.active {
+      & span {
+        @apply --underline-far-thick;
+      }
     }
   }
 }
