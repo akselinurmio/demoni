@@ -1,17 +1,12 @@
 ---
 addresses:
   postal:
-    recipient: Demoni
+    recipient: Demoni ry
     street: |-
-      Metropolia amk
+      Tila xxxx
       Hämeentie 161
     postalcode: '00000'
     town: Helsinki
-  street: |-
-    Demoni
-    Tila xxxx
-    Hämeentie 161
-    00000 Helsinki
 phone: xxxxxxxxxx
 email: demoni@metropolia.fi
 ytunnus: xxxxx-x
