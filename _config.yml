@@ -9,6 +9,7 @@ lang: fi
 permalink: /:title/
 #source: _content
 markdown: kramdown
+baseurl: /demoni-www
 
 # Editor settings
 prose:
