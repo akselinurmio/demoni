@@ -1,9 +1,11 @@
 .Sitefooter {
   border-top: .1rem solid var(--color-text);
   padding: var(--spacing) 0;
+
+  font-size: .9em;
 }
 
-.Sitefooter-col-wrapper {
+.Sitefooter-wrapper {
   @media (--sm) {
     display: flex;
   }
@@ -11,4 +13,30 @@
 
 .Sitefooter-col {
   flex: 1;
+
+  @media (--sm) {
+    padding: 0 1.5em;
+  }
+}
+
+.Sitefooter-social {
+  & ul {
+    list-style: none;
+    margin: 0;
+    padding: 1em 0;
+
+    & li {
+      display: inline-block;
+      margin-right: 1em;
+
+      & a {
+        background: none;
+
+        & svg {
+          width: 2em;
+          height: 2em;
+        }
+      }
+    }
+  }
 }
