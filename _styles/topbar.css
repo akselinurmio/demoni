@@ -1,22 +1,22 @@
 .Topbar {
-  padding-top: var(--spacing);
-  padding-bottom: var(--spacing);
+  padding-top: 0;
+  padding-bottom: 0;
   border-bottom: .1em solid var(--color-text);
 
   font-family: var(--font-family-feature);
   font-weight: lighter;
-  font-size: 1.1em;
-}
-
-.Topbar-sitename {
-  display: block;
-  font-family: var(--font-family-feature);
-  font-size: 2em;
-  text-transform: lowercase;
-  background: none;
 }
 
 .Topbar-nav {
+  font-size: 1.2em;
+
+  border-bottom: .1rem solid var(--color-text);
+
+  @media (--sm) {
+    padding-top: var(--spacing);
+    padding-bottom: var(--spacing);
+  }
+
   & ul {
     list-style: none;
     margin: 0;
@@ -24,25 +24,41 @@
 
     display: flex;
     flex-direction: row;
-    align-items: center;
+
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
 
     & > li {
       display: list-item;
+      flex: 0 0 auto;
 
       border-left: 1px solid var(--color-text);
 
       transform: skewX(-10deg);
 
       & > a {
-        padding: 1em 3em;
+        padding: .9em 1.7em;
         display: block;
 
         background: none;
 
+        @media (--sm) {
+          padding: .9em 2em;
+        }
+
         & > span {
           display: block;
-          transform: skewX(10deg);
           position: relative;
+
+          transform: skewX(10deg);
+        }
+      }
+
+      & > a:hover {
+        & > span {
+          @apply --underline-far;
         }
       }
     }
@@ -52,35 +68,98 @@
     }
 
     & > li:last-child {
-      border-right: 1px solid var(--color-text);
+      @media (--sm) {
+        border-right: 1px solid var(--color-text);
+      }
     }
 
-    & > li.brand {
+    & li.brand {
       transform: none;
       margin-right: .3em;
 
       & span {
         transform: none;
+        margin-left: .5em;
+        margin-right: .5em;
+      }
+
+      & a:hover {
+        & span {
+          background: none;
+        }
+      }
+    }
+
+    & li.active {
+      & span {
+        @apply --underline-far;
       }
     }
   }
 
   & img {
-    height: 2.2em;
+    height: 1.5em;
     width: auto;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+
+    @media (--sm) {
+      height: 2em;
+    }
   }
 }
 
-.Topbar-navitem {
-  display: block;
-  background: none;
-  padding: calc(0.5 * var(--spacing)) 0;
-}
+.Topbar-subnav {
+  font-size: 1em;
 
-.Topbar-navitem.active {
 
+
+  & ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: row;
+
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+
+    & > li {
+      display: list-item;
+      flex: 0 0 auto;
+
+      & > a {
+        padding: calc(var(--spacing) * 1.5) 1.7em;
+        display: block;
+
+        background: none;
+
+        @media (--sm) {
+          padding: calc(var(--spacing) * 1.5) 2em;
+        }
+
+        & > span {
+          display: block;
+          position: relative;
+        }
+      }
+
+      & > a:hover {
+        & > span {
+          @apply --underline-far-thick;
+        }
+      }
+    }
+
+    & li.active {
+      & span {
+        @apply --underline-far-thick;
+      }
+    }
+  }
 }

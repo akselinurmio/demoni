@@ -4,3 +4,15 @@
   width: 90%;
   max-width: 1270px;
 }
+
+.page {
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  max-width: 840px;
+}
+
+.Page-content {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}

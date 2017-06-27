@@ -1,4 +1,4 @@
-title: Demoni
+title: Demoni ry
 longtitle: Metropolian kulttuurialan opiskelijayhdistys Demoni ry
 description: >
   Demoni on Metropolia ammattikorkeakoulun kulttuurialan opiskelijayhdistys,
@@ -7,8 +7,9 @@ lang: fi
 
 # Build settings
 permalink: /:title/
-source: _content
+#source: _content
 markdown: kramdown
+baseurl: /demoni-www
 
 # Editor settings
 prose:
