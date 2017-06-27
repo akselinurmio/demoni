@@ -1,0 +1,40 @@
+<footer class="Sitefooter">
+
+  <div class="container">
+
+    <div class="Sitefooter-wrapper">
+      <div class="Sitefooter-col">
+        <div class="Sitefooter-description">
+          <p class="name">{{ site.longtitle }}</p>
+          <p>{{ site.description | strip_newlines | escape }}</p>
+        </div>
+      </div>
+
+      <div class="Sitefooter-col">
+        <div class="Sitefooter-social">
+          <ul>
+            {% if site.data.social.facebook %}<li><a href="{{ site.data.social.facebook }}"><svg class="icon-facebook"><use xlink:href="/assets/icons.svg#icon-facebook"></use></svg></a></li>{% endif %}
+            {% if site.data.social.instagram %}<li><a href="{{ site.data.social.instagram }}"><svg class="icon-instagram"><use xlink:href="/assets/icons.svg#icon-instagram"></use></svg></a></li>{% endif %}
+          </ul>
+        </div>
+      </div>
+
+      <div class="Sitefooter-col">
+        <div class="Sitefooter-contact">{% assign contact = site.data.contact %}
+          <p class="postaladdress">{% assign postal = contact.addresses.postal %}
+            <span>{{ postal.recipient }}</span><br>
+            <span>{{ postal.street | newline_to_br }}</span><br>
+            <span>{{ postal.postalcode }}</span> <span>{{ postal.town }}</span>
+          </p>
+          {% if contact.phone %}<p class="phone">{{ contact.phone }}</p>{% endif %}
+          <p class="email"><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+          <p class="ytunnus">Y-tunnus: {{ contact.ytunnus }}</p>
+          <p class="yhdistysnumero">Yhdistysnumero: {{ contact.yhdistysnumero }}</p>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>

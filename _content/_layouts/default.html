@@ -40,44 +40,7 @@
       </div>
     </main>
 
-    <footer class="Sitefooter">
-
-      <div class="container">
-
-        <div class="Sitefooter-col-wrapper">
-          <div class="Sitefooter-col">
-            <div class="Sitefooter-contact">{% assign contact = site.data.contact %}
-              <p class="name">{{ site.longtitle }}</p>
-              <p class="streetaddress">
-                {{ contact.addresses.street | newline_to_br }}
-              </p>
-              <p class="postaladdress">{% assign postal = contact.addresses.postal %}
-                <span>{{ postal.recipient }}</span><br>
-                <span>{{ postal.street | newline_to_br }}</span><br>
-                <span>{{ postal.postalcode }}</span> <span>{{ postal.town }}</span>
-              </p>
-              <p class="phone">{{ contact.phone }}</p>
-              <p class="email"><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
-              <p class="ytunnus">Y-tunnus: {{ contact.ytunnus }}</p>
-              <p class="yhdistysnumero">Yhdistysnumero: {{ contact.yhdistysnumero }}</p>
-            </div>
-          </div>
-
-          <div class="Sitefooter-col">
-            <ul class="Sitefooter-socialmedialist">
-              <li>Facebook</li>
-              <li>Instagram</li>
-            </ul>
-          </div>
-
-          <div class="Sitefooter-col">
-            <p>{{ site.description | strip_newlines | escape }}</p>
-          </div>
-        </div>
-
-      </div>
-
-    </footer>
+    {% include sitefooter.html %}
 
   </body>
 
