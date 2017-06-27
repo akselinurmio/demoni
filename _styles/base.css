@@ -55,3 +55,15 @@ h1 {
 h2 {
   font-size: 1.5em;
 }
+
+/*
+Kuvakkeet
+*/
+[class^="icon-"], [class*=" icon-"] {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
