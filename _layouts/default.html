@@ -9,7 +9,7 @@
 
     {% include favicon.html %}
 
-    <link rel="stylesheet" href="{{ "/assets/demoni.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/demoni.css" | absolute_url }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 {% if jekyll.environment == 'production' and site.google_analytics %}
 
@@ -23,7 +23,7 @@
     <header class="Topbar">
       <nav class="Topbar-nav">
         <ul>
-          <li class="brand"><a href="{{ "/" | relative_url}}"><span>&nbsp;<img src="/assets/logo.svg" alt="Demoni-logo"></span></a></li>
+          <li class="brand"><a href="{{ "/" | relative_url}}"><span>&nbsp;<img src="{{ "/assets/logo.svg" | relative_url}}" alt="Demoni-logo"></span></a></li>
           {% include navigation.html %}
         </ul>
       </nav>

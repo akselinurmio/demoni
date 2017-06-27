@@ -13,8 +13,8 @@
       <div class="Sitefooter-col">
         <div class="Sitefooter-social">
           <ul>
-            {% if site.data.social.facebook %}<li><a href="{{ site.data.social.facebook }}"><svg class="icon-facebook"><use xlink:href="/assets/icons.svg#icon-facebook"></use></svg></a></li>{% endif %}
-            {% if site.data.social.instagram %}<li><a href="{{ site.data.social.instagram }}"><svg class="icon-instagram"><use xlink:href="/assets/icons.svg#icon-instagram"></use></svg></a></li>{% endif %}
+            {% if site.data.social.facebook %}<li><a href="{{ site.data.social.facebook }}"><svg class="icon-facebook"><use xlink:href="{{ "/assets/icons.svg#icon-facebook" | relative_url}}"></use></svg></a></li>{% endif %}
+            {% if site.data.social.instagram %}<li><a href="{{ site.data.social.instagram }}"><svg class="icon-instagram"><use xlink:href="{{ "/assets/icons.svg#icon-instagram" | relative_url}}"></use></svg></a></li>{% endif %}
           </ul>
         </div>
       </div>
