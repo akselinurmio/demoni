@@ -27,11 +27,16 @@
           {% include navigation.html %}
         </ul>
       </nav>
+      {% capture subnav %}
+      {% include navigation-sub.html %}
+      {% endcapture %}{% assign subnav = subnav | strip_newlines | remove: "  " %}
+      {% unless subnav == '' %}
       <nav class="Topbar-subnav">
         <ul>
-          {% include navigation-sub.html %}
+          {{ subnav }}
         </ul>
       </nav>
+      {% endunless %}
     </header>
 
     <main class="Page-content">

@@ -1,3 +1,0 @@
----
-title: Osta ny
----

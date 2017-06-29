@@ -1,13 +1,16 @@
-{% capture html %}
-{% assign entries = site.pages | sort: "path" %}
-{% for entry in entries %}
+{% assign items = site.pages | sort: "url" %}
+{% for item in items %}
 
-  {% capture slug %}{{ entry.url | split: "/" | last }}{% endcapture %}
-  {% capture current %}{{ entry.url | remove: slug }}{% endcapture %}
+  {% assign itempath = item.url | split: "/" %}
+  {% assign itemsection = itempath[1] %}
+  {% assign itemname = itempath | last %}
 
-  {% if entry.url contains "opiskelu" %}
-    <li {% if page.url contains entry.url %}class="active" {% endif %}><a href="{{ entry.url | relative_url }}"><span>{{ entry.title | escape }}</span></a></li>
+  {% assign currentpath = page.url | split: "/" %}
+  {% assign currentsection = currentpath[1] %}
+  {% assign currentname = currentpath | last %}
+
+  {% if currentsection == itemsection and itemname != itemsection %}
+    <li{% if page.url contains item.url %} class="active"{% endif %}><a href="{{ item.url | relative_url }}"><span>{{ item.title | escape }}</span></a></li>
   {% endif %}
 
 {% endfor %}
-{% endcapture %}{{ html | strip_newlines | replace:"  ","" }}

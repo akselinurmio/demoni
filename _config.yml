@@ -1,17 +1,13 @@
 title: Demoni ry
 longtitle: Metropolian kulttuurialan opiskelijayhdistys Demoni ry
 description: >
-  Demoni on Metropolia ammattikorkeakoulun kulttuurialan opiskelijayhdistys,
-  joka toimii Helsingin Arabiassa ja Vantaan Tikkurilassa.
+  Demoni ry on Metropolia Ammattikorkeakoulun kulttuurin opiskelijoiden
+  opiskelijayhdistys, joka järjestää monenlaista vapaa-ajan toimintaa
+  opiskelun oheen, hoitaa jäsentensä edunvalvontaa ja myy opiskelijaelämään
+  kuuluvia tuotteita. Demoni toimii aktiivisesti yhteistyössä Metropolia
+  Ammattikorkeakoulun opiskelijakunta METKAn kanssa.
 lang: fi
 
 # Build settings
 permalink: /:title/
-#source: _content
 markdown: kramdown
-baseurl: /demoni-www
-
-# Editor settings
-prose:
-  rooturl: _sisalto
-  siteurl: "https://akselinurmio.github.io/demoni/"

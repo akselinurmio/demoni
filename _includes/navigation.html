@@ -1,13 +1,13 @@
 {% capture html %}
-{% assign entries = site.pages | sort: "path" %}
+{% assign entries = site.pages | sort: "path" | sort: "order" %}
 {% for entry in entries %}
 
   {% capture slug %}{{ entry.url | split: "/" | last }}{% endcapture %}
   {% capture current %}{{ entry.url | remove: slug }}{% endcapture %}
 
   {% if current == "//" %}
-    <li {% if page.url contains entry.url %}class="active" {% endif %}><a href="{{ entry.url | relative_url }}"><span>{{ entry.title | escape }}</span></a></li>
+    <li{% if page.url contains entry.url %} class="active"{% endif %}><a href="{{ entry.url | relative_url }}"><span>{{ entry.title | escape }}</span></a></li>
   {% endif %}
 
 {% endfor %}
-{% endcapture %}{{ html | strip_newlines | replace:"  ","" }}
+{% endcapture %}{{ html | strip_newlines | remove: "  " }}

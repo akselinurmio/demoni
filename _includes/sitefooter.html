@@ -1,33 +1,31 @@
-<footer class="Sitefooter">
+<footer class="Sitefooter" vocab="http://schema.org/" typeof="NGO">
 
   <div class="container">
 
     <div class="Sitefooter-wrapper">
       <div class="Sitefooter-col">
         <div class="Sitefooter-description">
-          <p class="name">{{ site.longtitle }}</p>
-          <p>{{ site.description | strip_newlines | escape }}</p>
+          <p class="name" property="name">{{ site.longtitle }}</p>
         </div>
       </div>
 
       <div class="Sitefooter-col">
         <div class="Sitefooter-social">
-          <ul>
-            {% if site.data.social.facebook %}<li><a href="{{ site.data.social.facebook }}"><svg class="icon-facebook"><use xlink:href="{{ "/assets/icons.svg#icon-facebook" | relative_url}}"></use></svg></a></li>{% endif %}
-            {% if site.data.social.instagram %}<li><a href="{{ site.data.social.instagram }}"><svg class="icon-instagram"><use xlink:href="{{ "/assets/icons.svg#icon-instagram" | relative_url}}"></use></svg></a></li>{% endif %}
-          </ul>
+          <ul>{% for media in site.data.social %}
+            <li><a href="{{ media[1] }}" property="sameAs"><svg class="icon-{{ media[0] }}"><use xlink:href="{{ "/assets/icons.svg#icon-" | append: media[0] | relative_url}}"></use></svg></a></li>
+          {% endfor %}</ul>
         </div>
       </div>
 
       <div class="Sitefooter-col">
         <div class="Sitefooter-contact">{% assign contact = site.data.contact %}
-          <p class="postaladdress">{% assign postal = contact.addresses.postal %}
-            <span>{{ postal.recipient }}</span><br>
-            <span>{{ postal.street | newline_to_br }}</span><br>
-            <span>{{ postal.postalcode }}</span> <span>{{ postal.town }}</span>
+          <p class="postaladdress" property="address" typeof="PostalAddress">{% assign postal = contact.addresses.postal %}
+            <span property="name">{{ postal.recipient }}</span><br>
+            <span property="postalCode" property="streetAddress">{{ postal.street | newline_to_br }}</span><br>
+            <span property="postalCode">{{ postal.postalcode }}</span> <span property="addressLocality">{{ postal.town }}</span>
           </p>
-          {% if contact.phone %}<p class="phone">{{ contact.phone }}</p>{% endif %}
-          <p class="email"><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+          {% if contact.phone %}<p class="phone" property="telephone">{{ contact.phone }}</p>{% endif %}
+          <p class="email" property="email"><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
           <p class="ytunnus">Y-tunnus: {{ contact.ytunnus }}</p>
           <p class="yhdistysnumero">Yhdistysnumero: {{ contact.yhdistysnumero }}</p>
         </div>
