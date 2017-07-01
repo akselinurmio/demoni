@@ -6,7 +6,7 @@
 
     <title>{% if page.title or page.headline %}{{ page.headline | default: page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     {% if page.url == '/' %}<meta name="description" content="{{ site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-    {% else %}<meta name="description" content="{{ page.description | default: page.content | truncatewords: 15 | strip_html | normalize_whitespace | truncate: 160 | escape }}">{% endif %}
+    {% else %}<meta name="description" content="{{ page.description | default: page.content | strip_html | normalize_whitespace | truncate: 160 | escape }}">{% endif %}
 
     {% include favicon.html %}
 
