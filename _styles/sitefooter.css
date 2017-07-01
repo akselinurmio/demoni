@@ -43,7 +43,7 @@
       margin-right: 1em;
 
       & a {
-        background: none;
+        text-decoration: none;
 
         & svg {
           width: 2em;

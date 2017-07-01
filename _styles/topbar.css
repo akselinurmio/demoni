@@ -41,7 +41,7 @@
         padding: .9em 1.7em;
         display: block;
 
-        background: none;
+        text-decoration: none;
 
         @media (--sm) {
           padding: .9em 2em;
@@ -57,7 +57,7 @@
 
       & > a:hover {
         & > span {
-          @apply --underline-far;
+          text-decoration: underline;
         }
       }
     }
@@ -84,14 +84,14 @@
 
       & a:hover {
         & span {
-          background: none;
+          text-decoration: none;
         }
       }
     }
 
     & li.active {
       & span {
-        @apply --underline-far;
+        text-decoration: underline;
       }
     }
   }
@@ -135,7 +135,7 @@
         padding: calc(var(--spacing) * 1.5) 1.7em;
         display: block;
 
-        background: none;
+        text-decoration: none;
 
         @media (--sm) {
           padding: calc(var(--spacing) * 1.5) 2em;
@@ -149,14 +149,14 @@
 
       & > a:hover {
         & > span {
-          @apply --underline-far-thick;
+          text-decoration: underline;
         }
       }
     }
 
     & li.active {
       & span {
-        @apply --underline-far-thick;
+        text-decoration: underline;
       }
     }
   }

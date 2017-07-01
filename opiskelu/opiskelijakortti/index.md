@@ -15,7 +15,7 @@ Jäseneksi liityttyäsi ja korttitilauksen tehtyäsi [voit ottaa käyttöösi Fr
 Opiskelijakortissa tulee olla voimassa oleva lukuvuosi- tai lukukausitarra, jotta opiskelijaetuja voi käyttää. Tarra on myös todiste opiskelijakunnan jäsenyydestä.
 
 Uusia tarroja saat seuraavilta toimijoilta:
-* Demonilta (vain etukäteen METKAlle maksetut lukuvuositarrat). Otathan tarraa hakiessasi mukaasi kuitin maksusta, jos se ei satu järjestelmässämme vielä näkymään. [Lisätietoja Demonin toimistosta ja aukioloajoista](#).
+* Demonilta (vain etukäteen METKAlle maksetut lukuvuositarrat). Otathan tarraa hakiessasi mukaasi kuitin maksusta, jos se ei satu järjestelmässämme vielä näkymään. <!-- Lisätietoja Demonin toimistosta ja aukioloajoista.-->
 * Opiskelijakunta METKAn [jäsenpalvelupisteeltä (Bulevardi 31)](http://metkaweb.fi/yhteystiedot/m-piste/).
 * METKAn toimipistekiertueilta syksyisin ja keväisin. Lisätiedot kiertuieista [METKAn Facebook-sivulta](https://www.facebook.com/opiskelijakuntametka).
 
