@@ -1,7 +1,6 @@
 .Topbar {
   padding-top: 0;
   padding-bottom: 0;
-  border-bottom: .1em solid var(--color-text);
 
   font-family: var(--font-family-feature);
   font-weight: lighter;
@@ -113,8 +112,7 @@
 
 .Topbar-subnav {
   font-size: 1em;
-
-
+  border-bottom: .1rem solid var(--color-text);
 
   & ul {
     list-style: none;

@@ -3,13 +3,12 @@
   <div class="container">
 
     <div class="Sitefooter-wrapper">
-      <div class="Sitefooter-col">
-        <div class="Sitefooter-description">
-          <p class="name" property="name">{{ site.longtitle }}</p>
-        </div>
-      </div>
 
       <div class="Sitefooter-col">
+        <div class="Sitefooter-basic">
+          <p class="logo"><img src="{{ "/assets/logo-white.svg" | relative_url}}" alt="Demoni-logo" property="logo"></p>
+          <p class="name" property="name">{{ site.longtitle }}</p>
+        </div>
         <div class="Sitefooter-social">
           <ul>{% for media in site.data.social %}
             <li><a href="{{ media[1] }}" property="sameAs"><svg class="icon-{{ media[0] }}"><use xlink:href="{{ "/assets/icons.svg#icon-" | append: media[0] | relative_url}}"></use></svg></a></li>
@@ -21,7 +20,7 @@
         <div class="Sitefooter-contact">{% assign contact = site.data.contact %}
           <p class="postaladdress" property="address" typeof="PostalAddress">{% assign postal = contact.addresses.postal %}
             <span property="name">{{ postal.recipient }}</span><br>
-            <span property="postalCode" property="streetAddress">{{ postal.street | newline_to_br }}</span><br>
+            <span property="streetAddress">{{ postal.street | newline_to_br }}</span><br>
             <span property="postalCode">{{ postal.postalcode }}</span> <span property="addressLocality">{{ postal.town }}</span>
           </p>
           {% if contact.phone %}<p class="phone" property="telephone">{{ contact.phone }}</p>{% endif %}
