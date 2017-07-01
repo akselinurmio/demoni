@@ -1,18 +1,34 @@
 .container {
   margin-right: auto;
   margin-left: auto;
-  width: 90%;
   max-width: 1270px;
 }
 
-.page {
+.Page {
+  padding-top: 1em;
+  padding-bottom: 1em;
+
+  &::after {
+    content: ".";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+  }
+}
+
+.Page-wrapper {
   margin-right: auto;
   margin-left: auto;
-  width: 100%;
+  width: 90%;
   max-width: 840px;
 }
 
-.Page-content {
-  padding-top: 1em;
-  padding-bottom: 1em;
+.Page p img {
+  display: block;
+  float: right;
+  width: auto;
+  height: auto;
+  max-width: 30%;
+  margin: 0 0 2rem 2rem;
 }

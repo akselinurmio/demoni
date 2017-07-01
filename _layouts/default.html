@@ -4,49 +4,50 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <title>{% if page.title or page.headline %}{{ page.headline | default: page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    {% if page.url == '/' %}<meta name="description" content="{{ site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    {% else %}<meta name="description" content="{{ page.description | default: page.content | strip_html | normalize_whitespace | truncate: 160 | escape }}">{% endif %}
 
     {% include favicon.html %}
 
-    <link rel="stylesheet" href="{{ "/assets/demoni.css" | absolute_url }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-{% if jekyll.environment == 'production' and site.google_analytics %}
-
-    {% include google-analytics.html %}
-
-{% endif %}
+    <link rel="stylesheet" href="{{ '/assets/demoni.css' | relative_url }}">
+    <link rel="canonical" href="{{ page.url | delete: 'index.html' | absolute_url }}">
+    {% if jekyll.environment == 'production' %}{% include google-analytics.html %}{% endif %}
   </head>
 
   <body>
+    <div class="body-wrapper">
 
     <header class="Topbar">
       <nav class="Topbar-nav">
-        <ul>
-          <li class="brand"><a href="{{ "/" | relative_url}}"><span>&nbsp;<img src="{{ "/assets/logo.svg" | relative_url}}" alt="Demoni-logo"></span></a></li>
-          {% include navigation.html %}
-        </ul>
+        <div class="container">
+          <ul>
+            <li class="brand"><a href="{{ '/' | relative_url}}"><span>&nbsp;<img src="{{ '/assets/logo.svg' | relative_url}}" alt="Demoni-logo"></span></a></li>
+            {% include navigation.html %}
+          </ul>
+        </div>
       </nav>
       {% capture subnav %}
       {% include navigation-sub.html %}
-      {% endcapture %}{% assign subnav = subnav | strip_newlines | remove: "  " %}
+      {% endcapture %}{% assign subnav = subnav | strip_newlines | remove: '  ' %}
       {% unless subnav == '' %}
       <nav class="Topbar-subnav">
-        <ul>
-          {{ subnav }}
-        </ul>
+        <div class="container">
+          <ul>
+            {{ subnav }}
+          </ul>
+        </div>
       </nav>
       {% endunless %}
     </header>
 
-    <main class="Page-content">
-      <div class="container">
-        {{ content }}
-      </div>
+    <main>
+      {{ content }}
     </main>
 
     {% include sitefooter.html %}
 
+  </div>
   </body>
 
 </html>

@@ -3,9 +3,16 @@ longtitle: Metropolian kulttuurialan opiskelijayhdistys Demoni ry
 description: >
   Demoni ry on Metropolia Ammattikorkeakoulun
   kulttuurin opiskelijoiden opiskelijayhdistys.
+longdescription: >
+  Demoni ry on Metropolia Ammattikorkeakoulun kulttuurin opiskelijoiden
+  opiskelijayhdistys, joka järjestää monenlaista vapaa-ajan toimintaa opiskelun
+  oheen, hoitaa jäsentensä edunvalvontaa ja myy opiskelijaelämään kuuluvia
+  tuotteita. Demoni toimii aktiivisesti yhteistyössä Metropolia
+  Ammattikorkeakoulun opiskelijakunta METKAn kanssa.
 lang: fi
 
 # Build settings
 permalink: /:title/
-markdown: kramdown
 url: https://beta.demoniry.fi
+kramdown:
+  toc_levels: 1..2

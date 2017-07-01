@@ -1,0 +1,13 @@
+.Introduction {
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
+
+  margin: 6rem auto;
+  width: 90%;
+  max-width: 840px;
+
+  & h1 {
+    display: none;
+  }
+}

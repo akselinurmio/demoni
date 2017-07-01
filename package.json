@@ -4,11 +4,11 @@
   "description": "Demonin verkkosivut",
   "version": "0.0.0",
   "scripts": {
-    "build": "npm run postcss && bundle exec jekyll build",
+    "build": "npm run postcss:build && bundle exec jekyll build",
     "watch": "npm run postcss -- --watch & bundle exec jekyll build --watch",
     "serve": "npm run watch & browser-sync start --server _site/ --files _site/",
     "postcss": "postcss _styles/demoni.css --output assets/demoni.css --use postcss-import postcss-cssnext",
-    "css:minify": "postcss _content/assets/demoni.css --output assets/demoni.css --use cssnano"
+    "postcss:build": "postcss _styles/demoni.css --output assets/demoni.css --use postcss-import postcss-cssnext cssnano"
   },
   "dependencies": {
     "browser-sync": "^2.18.8",

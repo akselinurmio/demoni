@@ -9,3 +9,7 @@
 
 @import "topbar";
 @import "sitefooter";
+@import "board";
+@import "cover";
+@import "now";
+@import "introduction";

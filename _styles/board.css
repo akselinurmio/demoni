@@ -1,0 +1,70 @@
+.Board {
+
+  & ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  &--old {
+
+    @media (--sm) {
+
+      & ul {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      & .Member {
+        width: 50%;
+      }
+
+      & .Member .keyinfo {
+        width: auto;
+      }
+
+    }
+
+  }
+
+}
+
+.Member {
+  margin: -1rem;
+  padding-bottom: 2rem;
+
+  @media (--sm) {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  & .keyinfo, & .funfacts {
+    display: block;
+    margin: 0;
+    padding: 1rem;
+  }
+
+  & .keyinfo {
+    @media (--sm) {
+      width: 40%;
+    }
+  }
+
+  & .name, & .task {
+    margin: 0;
+  }
+
+  & .name {
+    font-family: var(--font-family-feature);
+    font-size: 2rem;
+  }
+
+  & dt {
+    font-style: italic;
+    margin: 0;
+  }
+
+  & dd {
+    margin: 0 0 1rem;
+  }
+
+}

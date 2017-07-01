@@ -1,7 +1,7 @@
 ---
 addresses:
   postal:
-    recipient: Demoni ry
+    recipient: Demoni
     street: |-
       Metropolia Ammattikorkeakoulu
       Hämeentie 161
@@ -9,5 +9,5 @@ addresses:
     town: Helsinki
 # phone:
 email: demoni@metropolia.fi
-ytunnus: 2748627-4
-yhdistysnumero: 216.548
+ytunnus: '2748627-4'
+yhdistysnumero: '216.548'

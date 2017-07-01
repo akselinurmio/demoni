@@ -1,29 +1,42 @@
 .Sitefooter {
-  border-top: .1rem solid var(--color-text);
-  padding: var(--spacing) 0;
-
-  font-size: .9em;
+  background-color: var(--color-text);
+  color: #fff;
+  padding: 4rem 0;
 }
 
 .Sitefooter-wrapper {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+
   @media (--sm) {
     display: flex;
   }
 }
 
 .Sitefooter-col {
-  flex: 1;
-
   @media (--sm) {
-    padding: 0 1.5em;
+    flex: 1;
+    padding: 0 2rem;
+  }
+}
+
+.Sitefooter-basic {
+  & .logo img {
+    width: auto;
+    height: 4rem;
+
+    @media (--sm) {
+      height: 6rem;
+    }
   }
 }
 
 .Sitefooter-social {
   & ul {
     list-style: none;
-    margin: 0;
-    padding: 1em 0;
+    margin: 2rem 0;
+    padding: 0;
 
     & li {
       display: inline-block;
