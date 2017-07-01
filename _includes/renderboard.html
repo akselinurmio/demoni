@@ -1,0 +1,41 @@
+{% capture html %}
+
+{% assign full = include.full %}
+
+{% assign input = include.board %}
+{% assign term = input[0] %}
+{% assign members = input[1] %}
+{% assign id = term | append: '' | slugify %}
+
+<section{% if id and id != '' %} id="{{ id }}"{% endif %} class="Board{% unless full == true %} Board--old{% endunless %}">
+
+  <h2>
+    {% if id %}<a href="#{{ id }}">{% endif %}
+    {{ term }}
+    {% if id %}</a>{% endif %}
+  </h2>
+
+  <ul>
+  {% for member in members %}
+    {% assign name = member[0] %}
+    {% assign details = member[1] %}
+    <li class="Member">
+      <div class="keyinfo">
+        <p class="name">{{ name }}</p>
+        {% if details.task %}<p class="task">{{ details.task }}</p>{% endif %}
+      </div>
+      {% if full %}
+      <dl class="funfacts">
+        {% for qa in details.qa %}
+          <dt>{{ qa[0] }}</dt>
+          <dd>{{ qa[1] }}</dd>
+        {% endfor %}
+      </dl>
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+
+</section>
+
+{% endcapture %}{{ html | strip_newlines | remove: "  " }}

@@ -1,5 +1,4 @@
 ---
 title: Hallitus
+layout: board
 ---
-
-Demonin hallitus.
