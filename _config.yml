@@ -13,6 +13,6 @@ lang: fi
 
 # Build settings
 permalink: /:title/
-url: https://beta.demoniry.fi
+url: https://demoniry.fi
 kramdown:
   toc_levels: 1..2
