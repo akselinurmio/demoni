@@ -3,6 +3,13 @@ Perustyylit
 */
 
 html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html {
   background: var(--color-brand);
   color: var(--color-text);
   height: 100%;
@@ -13,6 +20,11 @@ body {
   background-color: var(--color-bg);
   font-size: 1.7rem;
   min-height: 100%;
+}
+
+::selection {
+  background: var(--color-brand);
+  color: var(--color-bg)
 }
 
 /*
@@ -44,8 +56,9 @@ a {
 Otsikot
 */
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
   font: 1em/1.25 var(--font-family-feature);
+  padding-top: 1em;
 }
 
 h1 {
@@ -66,4 +79,16 @@ Kuvakkeet
   stroke-width: 0;
   stroke: currentColor;
   fill: currentColor;
+}
+
+#markdown-toc {
+  margin: 4rem 0;
+  padding: .5rem 0 .5rem 2rem;
+  list-style: none;
+  border-left: .5rem solid var(--color-brand);
+
+  & li {
+    display: block;
+    padding: .5rem 0;
+  }
 }
