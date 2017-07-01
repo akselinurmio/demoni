@@ -1,0 +1,23 @@
+.Now {}
+
+.Now p {
+  margin: 0;
+
+  & + p {
+    margin-top: 1em;
+  }
+}
+
+.Now-wrapper {
+  background-color: var(--color-text);
+  color: var(--color-bg);
+  margin: 2rem auto;
+  padding: 2rem;
+  width: 90%;
+  max-width: 768px;
+
+  @media (--sm) {
+    width: 70%;
+    padding: 4rem;
+  }
+}
