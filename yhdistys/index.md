@@ -32,11 +32,11 @@ Demoni ry järjestää ympäri vuoden erikokoisia ja erilaisia tapahtumia. Tekem
 
 Demoni ry:n toimintaan voi tulla mukaan kuka tahansa metropolialainen kulttuurin opiskelija! Yhdistyksen arkea ja toimintaa pyörittää yhdistyksen hallitus, joka valitaan vuosittain marras-joulukuussa vaaleilla yhdistyksen kokouksessa, jossa äänioikeutettuja ovat kaikki yhdistyksen jäsenet. Hallitushausta tiedotetaan nettisivuilla ja Facebookissa.
 
-Demonilla on myös aktiivijäseniä, jotka ovat mukana järjestämässä toimintaa omien kiinnostuksen kohteidensa mukaan. Aktiivit ovat olleet mukana esimerkiksi tapahtumien suunnittelussa ja järjestämisessä, nettisivujen uudistamisessa ja haalareiden hankinnassa. Demonin toiminta on aina tekijöidensä näköistä! Aktiivijäseneksi voi ilmoittautua milloin vain ottamalla yhteyttä hallituksen puheenjohtajaan. Löydät yhteystiedot täältä.
+Demonilla on myös aktiivijäseniä, jotka ovat mukana järjestämässä toimintaa omien kiinnostuksen kohteidensa mukaan. Aktiivit ovat olleet mukana esimerkiksi tapahtumien suunnittelussa ja järjestämisessä, nettisivujen uudistamisessa ja haalareiden hankinnassa. Demonin toiminta on aina tekijöidensä näköistä! Aktiivijäseneksi voi ilmoittautua milloin vain ottamalla yhteyttä hallituksen puheenjohtajaan. <!-- Löydät yhteystiedot täältä. -->
 
 ## Demonilaisten tunnukset
 
-Demoni ry myy opiskelijaelämään olennaisesti kuuluvia tuotteita kuten Metropolian kulttuurin viininpunaisia haalareita sekä erilaisia haalarimerkkejä. Demonilta löytyy myös oma kuntanauha käytettäväksi akateemisissa juhlatilaisuuksissa. Kuntanauha on Demonin värien mukaisesti pinkki ja sitä voivat kantaa kaikki Metropolian kulttuurialojen opiskelijat. Kaikkia Demonin tuotteita voi ostaa toimistolta. Toimiston aukioloajat löydät täältä.
+Demoni ry myy opiskelijaelämään olennaisesti kuuluvia tuotteita kuten Metropolian kulttuurin viininpunaisia haalareita sekä erilaisia haalarimerkkejä. Demonilta löytyy myös oma kuntanauha käytettäväksi akateemisissa juhlatilaisuuksissa. Kuntanauha on Demonin värien mukaisesti pinkki ja sitä voivat kantaa kaikki Metropolian kulttuurialojen opiskelijat. Kaikkia Demonin tuotteita voi ostaa toimistolta. <!-- Toimiston aukioloajat löydät täältä. -->
 
 ## Historia
 
