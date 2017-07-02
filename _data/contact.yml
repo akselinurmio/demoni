@@ -1,4 +1,7 @@
 ---
+---
+
+---
 addresses:
   postal:
     recipient: Demoni
@@ -8,6 +11,6 @@ addresses:
     postalcode: '00560'
     town: Helsinki
 # phone:
-email: demoni@metropolia.fi
+email: demoni@demoniry.fi
 ytunnus: '2748627-4'
 yhdistysnumero: '216.548'
