@@ -1,6 +1,6 @@
 ---
 layout: home
-photo: /assets/photos/lautapeli-ilta.jpg
+photo: "/assets/photos/lautapeli-ilta.jpg"
 ---
 
 Hei sinä uusi kulttuurialan opiskelija!

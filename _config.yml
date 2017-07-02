@@ -1,18 +1,27 @@
+---
 title: Demoni ry
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 longtitle: Metropolian kulttuurialan opiskelijayhdistys Demoni ry
-description: >
-  Demoni ry on Metropolia Ammattikorkeakoulun
-  kulttuurin opiskelijoiden opiskelijayhdistys.
-longdescription: >
-  Demoni ry on Metropolia Ammattikorkeakoulun kulttuurin opiskelijoiden
-  opiskelijayhdistys, joka järjestää monenlaista vapaa-ajan toimintaa opiskelun
-  oheen, hoitaa jäsentensä edunvalvontaa ja myy opiskelijaelämään kuuluvia
-  tuotteita. Demoni toimii aktiivisesti yhteistyössä Metropolia
-  Ammattikorkeakoulun opiskelijakunta METKAn kanssa.
-lang: fi
+description: 'Demoni ry on Metropolia Ammattikorkeakoulun kulttuurin opiskelijoiden
+  opiskelijayhdistys.
 
-# Build settings
-permalink: /:title/
+'
+longdescription: 'Demoni ry on Metropolia Ammattikorkeakoulun kulttuurin opiskelijoiden
+  opiskelijayhdistys, joka järjestää monenlaista vapaa-ajan toimintaa opiskelun oheen,
+  hoitaa jäsentensä edunvalvontaa ja myy opiskelijaelämään kuuluvia tuotteita. Demoni
+  toimii aktiivisesti yhteistyössä Metropolia Ammattikorkeakoulun opiskelijakunta
+  METKAn kanssa.
+
+'
+lang: fi
+permalink: "/:title/"
 url: https://demoniry.fi
 kramdown:
   toc_levels: 1..2
