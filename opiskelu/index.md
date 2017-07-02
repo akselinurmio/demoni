@@ -2,7 +2,7 @@
 title: Opiskelu
 order: 1
 headline: Demonilaisen opas
-excerpt: Demoni on ikioma opiskelijayhdistyksesi ja olemme rakkaudella koostaneet infopaketin auttamaan valitsemallasi tiellä.
+description: Demoni on ikioma opiskelijayhdistyksesi ja olemme rakkaudella koostaneet infopaketin auttamaan valitsemallasi tiellä.
 ---
 
 Onneksi olkoon opiskelupaikasta ja tervetuloa demonilaiseksi. Demoni on ikioma opiskelijayhdistyksesi ja olemme rakkaudella koostaneet infopaketin auttamaan valitsemallasi tiellä.
