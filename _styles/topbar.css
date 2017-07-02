@@ -8,8 +8,8 @@
 
 .Topbar-nav {
   font-size: 1.2em;
-
   border-bottom: .1rem solid var(--color-text);
+  position: relative;
 
   @media (--sm) {
     padding-top: 1rem;
@@ -113,6 +113,7 @@
 .Topbar-subnav {
   font-size: 1em;
   border-bottom: .1rem solid var(--color-text);
+  position: relative;
 
   & ul {
     list-style: none;
@@ -160,4 +161,14 @@
       }
     }
   }
+}
+
+.Topbar-fade {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 1.5em;
+  pointer-events: none;
+  background: linear-gradient(to right, rgba(255,255,255,0) 0%,color(var(--color-bg) a(100%)) 100%);
 }
