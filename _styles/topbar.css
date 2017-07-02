@@ -12,8 +12,8 @@
   border-bottom: .1rem solid var(--color-text);
 
   @media (--sm) {
-    padding-top: var(--spacing);
-    padding-bottom: var(--spacing);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 
   & ul {
@@ -132,13 +132,13 @@
       flex: 0 0 auto;
 
       & > a {
-        padding: calc(var(--spacing) * 1.5) 1.7em;
+        padding: 1.5rem 1.7em;
         display: block;
 
         text-decoration: none;
 
         @media (--sm) {
-          padding: calc(var(--spacing) * 1.5) 2em;
+          padding: 1.5rem 2em;
         }
 
         & > span {
