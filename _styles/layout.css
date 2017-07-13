@@ -15,6 +15,10 @@
   }
 }
 
+.Page h2 {
+  clear: left;
+}
+
 .Page-wrapper {
   margin-right: auto;
   margin-left: auto;
@@ -27,6 +31,21 @@
   float: right;
   width: auto;
   height: auto;
-  max-width: 30%;
+  max-width: 40%;
   margin: 0 0 2rem 2rem;
+
+  @media (--sm) {
+    margin-left: 4rem;
+  }
+
+  &[src$='#left'] {
+    float: left;
+    margin: 0 2rem 2rem 0;
+  }
+
+  &[src$='#full'] {
+    float: none;
+    max-width: 100%;
+    margin: 2rem 0;
+  }
 }
