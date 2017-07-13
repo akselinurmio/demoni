@@ -1,10 +1,10 @@
 ---
 title: Tapahtumat
 order: 2
-description: >
-  Demoni järjestää vuoden mittaan lukuisia erilaisia tapahtumia,
-  kuten Drink or Treat -halloween-naamiaiset ja vuoroviikoittaiset
-  lautapeli-illat.
+description: 'Demoni järjestää vuoden mittaan lukuisia erilaisia tapahtumia, kuten
+  Drink or Treat -halloween-naamiaiset ja vuoroviikoittaiset lautapeli-illat.
+
+'
 ---
 
 Tervetuloa Demonin järjestämiin tapahtumiin! Järjestämme vuoden mittaan lukuisia tapahtumia. Skaala ulottuu on niin lautapeli-illoista sitseihin, kuin vuosijuhlista halloween-naamiaisiin.
