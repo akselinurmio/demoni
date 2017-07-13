@@ -56,7 +56,7 @@ Lue opiskelijakortista ja sen hankkimisesta lisää sivulta [Opiskelijakortti ja
 
 ## Rahaa, lainaa ja pirusti lomakkeita {#kela}
 
-[Kelan opiskelijoiden tuet](http://www.kela.fi/opintotuki) muuttuvat elokuusta&nbsp;2017 alkaen niin, että opintorahan taso pienenee toisen asteen opiskelijoiden kanssa samalle tasolle (enintään 250,28&nbsp;e/kk), asumislisä lakkautetaan ja opintolainan valtiontakaus nousee 650&nbsp;euroon kuukaudessa.
+[Kelan opiskelijoiden tuet](http://www.kela.fi/opintotuki) muuttuvat elokuusta&nbsp;2017 alkaen niin, että opintorahan taso pienenee toisen asteen opiskelijoiden kanssa samalle tasolle (enintään 250,28&nbsp;&euro;/kk), asumislisä lakkautetaan ja opintolainan valtiontakaus nousee 650&nbsp;euroon kuukaudessa.
 
 Opiskelijat siirtyvät [yleisen asumistuen](http://www.kela.fi/yleinen-asumistuki) piiriin, jolloin asumisen tuen ehdot muuttuvat. Yksin asuville se tarkoittaa pääsääntöisesti tuen nousua, kun taas pariskunnilla tuet mahdollisesti laskevat. Kelalta löytyy [laajempi info ja muistilista opintotuen muutoksista](http://www.kela.fi/opiskelijoiden-tukien-muutokset).
 
@@ -79,7 +79,7 @@ Kirpputoreja ja käytetyn tavaran kauppoja on kaupunki pullollaan. Seuraavasta l
 * [Relove](http://www.relove.fi/)
 * [Kaivarin kanuuna](http://kaivarinkanuuna.fi/)
 
-Kauppa käy kuumana myös Facebookissa. Kannattaa siis etsiä ainakin oman alueensa kirppisryhmä ja liittyä siihen jo ennen muuttoa! Tässä muutama isoimmista ryhmistä:
+Av, yv, jono ja up! Kauppa käy kuumana myös Facebookissa. Kannattaa siis etsiä ainakin oman alueensa kirppisryhmä ja liittyä siihen jo ennen muuttoa! Tässä muutama isoimmista ryhmistä:
 
 * [Myydään/ostetaan/annetaan HELSINKI](https://www.facebook.com/groups/233206050116034/)
 * [Arabianranta kierrättää](https://www.facebook.com/groups/243120345787175/)
@@ -93,7 +93,9 @@ Kauppa käy kuumana myös Facebookissa. Kannattaa siis etsiä ainakin oman aluee
 
 ### Teatraalista menoa {#teatterit}
 
-Teatterissa on mukavaa ja niitähän Helsingistä onneksi löytyy.
+![Speksiesitys](/assets/photos/metkanspeksi.jpg)
+
+Teatterissa on mukavaa ja niitähän, nimittäin teattereita, Helsingistä löytyy!
 
 * [Kansallisteatteri](http://www.kansallisteatteri.fi/)
 * [Helsingin kaupunginteatteri](https://hkt.fi/)
@@ -102,15 +104,13 @@ Teatterissa on mukavaa ja niitähän Helsingistä onneksi löytyy.
 * [KOM-teatteri](http://www.kom-teatteri.fi/)
 * [Gay-teatteri](http://www.gayteatteri.info/)
 
-
-
 Tutustuthan myös Helsingin maanmainioihin opiskelijateattereihin, harvasta kaupungista niitä löytyy useampi!
 
 * [Kellariteatteri](http://www.kellariteatteri.fi/)
 * [Ilvesteatteri](http://www.ilvesteatteri.fi/)
 * [Ylioppilasteatteri](http://www.ylioppilasteatteri.fi/)
 
-Speksi on yliopistomaailmasta ammattikorkeisiinkin levinnyt opiskelijateatterin muoto. Demoni tekee aina omaan METKAn speksiimme yhteislähdönkin, joten speksi kannattaa kokea!
+Speksi on yliopistomaailmasta ammattikorkeisiinkin levinnyt opiskelijateatterin muoto. Erikoisen hulvattoman kokemuksen speksistä tekee yleisön omstart-huudot, joilla kohtaus näytellään haluamallasi tavalla uudelleen. Demoni järjestää aina omaan METKAn speksiimme yhteislähdönkin, joten speksin kokeminen on helppoa!
 
 * [METKAn speksi](http://metkaweb.fi/speksi/)
 
