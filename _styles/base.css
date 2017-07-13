@@ -46,6 +46,7 @@ Linkit
 a {
   color: inherit;
   text-decoration: underline;
+  text-decoration-skip: ink;
   -webkit-tap-highlight-color: color(var(--color-brand) a(30%));
 }
 
