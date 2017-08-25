@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'Comic Neue Angular';
+  src: url('https://cdn.jsdelivr.net/font-comicneue/1.1/ComicNeue-Angular-Bold-Oblique.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/font-comicneue/1.1/ComicNeue-Angular-Bold-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/font-comicneue/1.1/ComicNeue-Bold-Oblique.woff') format('woff'), /* Modern Browsers */
+       url('https://cdn.jsdelivr.net/font-comicneue/1.1/ComicNeue-Bold-Oblique.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-weight: 700;
+  font-style: oblique;
+}
+
+.brutal {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #FFFF00;
+
+  & h1, & h2, & h3, & h4, & h5, & h6 {
+    font-family: 'Comic Neue Angular';
+    font-weight: 700;
+    font-style: oblique;
+    background-color: #FFFFFF;
+  }
+
+  & img, & .image {
+    filter: invert(100%);
+
+    &:hover {
+      filter: invert(0%);
+    }
+  }
+
+  & main {
+    background: url('http://www.animateit.net/data/media/august2009/space_bg.gif');
+    & p, & ul {
+      background-color: #00FF00;
+      color: #FFFFFF;
+      text-shadow: 2px 2px #808080;
+
+      border-style: inset;
+        box-shadow: 0 1px 2px #fff, 0 -1px 1px #666, inset 0 -1px 1px rgba(0,0,0,0.5), inset 0 1px 1px rgba(255,255,255,0.8);
+    }
+  }
+
+  & .Topbar {
+    font-family: 'Comic Neue Angular';
+    font-weight: 700;
+    font-style: oblique;
+    background-color: #FFFFFF;
+    & a {
+      & span {
+        background-color: #000000;
+        color: #FFFFFF;
+      }
+    }
+
+    & .brand {
+      & a {
+        & span {
+          background-color: transparent;
+        }
+      }
+    }
+  }
+
+  & footer {
+    background-color: #FFFF00;
+    color: #000000;
+  }
+
+  & .Now-wrapper {
+    background-color: #3333CC;
+  }
+
+  & .Member {
+    & .name {
+      font-family: 'Comic Neue Angular';
+      font-weight: 700;
+      font-style: oblique;
+      background-color: #FFFFFF;
+      color: #000000;
+    }
+  }
+}
