@@ -8,6 +8,7 @@
   font-style: oblique;
 }
 
+
 .brutal {
   font-family: "Courier New", Courier, monospace;
   background-color: #FFFF00;
@@ -28,7 +29,7 @@
   }
 
   & main {
-    background: url('http://www.animateit.net/data/media/august2009/space_bg.gif');
+    background: url('/assets/space_bg.gif');
     & p, & ul {
       background-color: #00FF00;
       color: #FFFFFF;
