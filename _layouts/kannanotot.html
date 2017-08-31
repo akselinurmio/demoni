@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul>
+  {% for post in site.categories.kannanotot %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
