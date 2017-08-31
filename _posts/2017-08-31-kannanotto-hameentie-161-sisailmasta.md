@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Kannanotto Metropolian Hämeentie 161:n sisäilmaan liittyvistä selvityksistä
-date: 2017-08-31 15:00:01 +0300
-categories: kannanotot
+date: 2017-08-31 15:00:01 +03:00
+categories:
+- kannanotot
+layout: page
 ---
 
 **KANNANOTTO 31.8.2017**
