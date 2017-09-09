@@ -6,6 +6,8 @@ categories:
 layout: page
 ---
 
+**PÄIVITYS 1.9.2017:** [Metropolian tiedote Hämeentie 161:n sisäilmakorjauksia koskien OMAssa](https://oma.metropolia.fi/tiedotteet?p_p_id=AnnouncementPortlet_WAR_announcementportlet&p_p_lifecycle=0&p_p_col_id=column-2&p_p_col_count=4&_AnnouncementPortlet_WAR_announcementportlet_struts.portlet.action=%2Fannouncement%2Fread_announcement%20&announcementId=25814)
+
 **KANNANOTTO 31.8.2017**
 
 Metropolian kulttuurialan opiskelijayhdistys Demoni ry vaatii, että Metropolia Ammattikorkeakoulun Arabian kampuksen Hämeentie 161:n toimipisteen sisäilmakorjaukset toteutetaan välittömästi. Lisäksi opiskelijoita ja henkilökuntaa on tiedotettava ja kuultava avoimesti ja viipymättä sisäilma-asioihin liittyen.
