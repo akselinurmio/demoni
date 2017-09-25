@@ -1,9 +1,10 @@
 ---
 title: Kutsu vuoden 2017 ensimmäiseen yhdistyksen ylimääräiseen kokoukseen
-description: Tervetuloa Metropolian kulttuurialan opiskelijayhdistys Demoni ry:n yhdistyksen ensimmäiseen ylimääräiseen kokoukseen!
 date: 2017-09-25 14:00:00 +03:00
 categories:
 - kokouskutsut
+description: Tervetuloa Metropolian kulttuurialan opiskelijayhdistys Demoni ry:n yhdistyksen
+  ensimmäiseen ylimääräiseen kokoukseen!
 layout: page
 ---
 
