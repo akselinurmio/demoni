@@ -3,8 +3,6 @@ layout: home
 photo: "/assets/photos/lautapeli-ilta.jpg"
 ---
 
-Hei sinä uusi kulttuurialan opiskelija!
+Tervetuloa Metropolian kulttuurialan opiskelijayhdistys Demoni ry:n vuoden ensimmäiseen ylimääräiseen yhdistyksen kokoukseen!
 
-Onneksi olkoon opiskelupaikasta ja tervetuloa demonilaiseksi! Tutustuthan juuri sinua varten koottuun [demonilaisen oppaaseen]({% link opiskelu/index.md %}) ja seuraat Demonia [Facebookissa](https://www.facebook.com/opiskelijayhdistysdemoni/ "Demoni Facebookissa") ja [Instagramissa](https://www.instagram.com/demoni_ry/ "Demoni Instagramissa")!
-
-Nähdään pian!
+[Kokouskutsun löydät täältä.](/kutsu-ensimmaiseen-yhdistyksen-ylimaaraiseen-kokoukseen-2017/)
