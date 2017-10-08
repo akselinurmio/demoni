@@ -5,7 +5,7 @@ title: Opiskelijakortti ja lukuvuositarra
 Opiskelijakortti on lähes välttämätön osa opiskelijaelämää, sillä vain opiskelijakortilla on mahdollista saada opiskelijaetuja ja -alennuksia ympäri Suomen ja ISIC-kortilla myös ympäri maailman, hankkia halvempia bussi- ja junalippuja sekä vaikuttaa opiskelijakunnan toimintaan. Metropolian opiskelijana saat opiskelijakorttisi liittymällä opiskelijakunta METKAn jäseneksi.
 
 ## Kuinka hankin opiskelijakortin?
-Opiskelijakortin saat käyttöösi liittymällä opiskelijakunta METKAn jäseneksi. Lisätietoja opiskelijakortin hankkimisesta [voit lukea METKAn nettisivuilta](http://metkaweb.fi/opiskelijakortti/tilaa-opiskelijakortti/).
+Opiskelijakortin saat käyttöösi liittymällä opiskelijakunta METKAn jäseneksi. Lisätietoja opiskelijakortin hankkimisesta [voit lukea METKAn nettisivuilta](http://metkaweb.fi/metka/opiskelijakortti/).
 
 Kun tilaat ensimmäistä korttiasi, saat samalla jäsenyyden haluamaksesi ajaksi, yleensä koko lukuvuodeksi. Kun tämä ensimmäinen jäsenyys umpeutuu, sinun tulee uusia jäsenyytesi eli hankkia uusi lukuvuositarra korttiisi, mikäli haluat jatkaa opiskelijaetujen käyttämistä.
 
@@ -16,9 +16,9 @@ Opiskelijakortissa tulee olla voimassa oleva lukuvuosi- tai lukukausitarra, jott
 
 Uusia tarroja saat seuraavilta toimijoilta:
 * Demonilta (vain etukäteen METKAlle maksetut lukuvuositarrat). Otathan tarraa hakiessasi mukaasi kuitin maksusta, jos se ei satu järjestelmässämme vielä näkymään. <!-- Lisätietoja Demonin toimistosta ja aukioloajoista.-->
-* Opiskelijakunta METKAn [jäsenpalvelupisteeltä (Bulevardi 31)](http://metkaweb.fi/yhteystiedot/m-piste/).
+* Opiskelijakunta METKAn [jäsenpalvelupisteiltä (Arabia ja Bulevardi 31)](http://metkaweb.fi/metka/m-piste/).
 * METKAn toimipistekiertueilta syksyisin ja keväisin. Lisätiedot kiertuieista [METKAn Facebook-sivulta](https://www.facebook.com/opiskelijakuntametka).
 
-Jos haet tarran Demonin toimistolta, tarra tulee olla maksettuna etukäteen METKAn tilille. Ohjeet maksamiseen [löydät METKAn nettisivuilta](http://metkaweb.fi/opiskelijakortti/uusi-lukuvuositarra/). Otathan mukaasi kuitin tarran maksusta METKAlle, sillä maksut eivät päivity järjestelmään reaaliajassa.
+Jos haet tarran Demonin toimistolta, tarra tulee olla maksettuna etukäteen METKAn tilille. Ohjeet maksamiseen [löydät METKAn nettisivuilta](http://metkaweb.fi/metka/lukuvuositarrat/). Otathan mukaasi kuitin tarran maksusta METKAlle, sillä maksut eivät päivity järjestelmään reaaliajassa.
 
-Jos et halua nähdä vaivaa uuden tarran hakemisesta, voit ottaa käyttöösi Frank App -sovelluksen, jolla voit käytännössä korvata muovikortin. Tarran voi tällöin maksaa suoraan METKAn tilille. Ohjeet maksamiseen [löydät METKAn nettisivuilta](http://metkaweb.fi/opiskelijakortti/uusi-lukuvuositarra/).
+Jos et halua nähdä vaivaa uuden tarran hakemisesta, voit ottaa käyttöösi Frank App -sovelluksen, jolla voit käytännössä korvata muovikortin. Tarran voi tällöin maksaa suoraan METKAn tilille. Ohjeet maksamiseen [löydät METKAn nettisivuilta](http://metkaweb.fi/metka/lukuvuositarrat/).
