@@ -3,12 +3,10 @@ layout: home
 photo: "/assets/photos/lautapeli-ilta.jpg"
 ---
 
-Tapahtumia, tapahtumia&hellip; Seuraavien viikkojen aikana Demonissa tapahtuu:
+Edustajistovaalit lähestyvät!
 
-* [Drink or Treat 2017](https://www.facebook.com/events/417091958687354/) &ndash; torstai 19.10.
+Edustajisto käyttää opiskelijakunta METKAn ylintä päätösvaltaa ja määrittää opiskelijajärjestön toiminnan suunnan. Vaaleissa on jälleen ehdolla liuta kulttuurialojen opiskelijoita, käy tutustumassa heihin kulttuurialan vaaliliiton [METKAn vaalisivulla](http://metka.metropolia.fi/vaalit/ehdokkaat/).
 
-* [Minun elokuvani -festarijatkot](https://www.facebook.com/events/119704912057486/) &ndash; perjantai 20.10.
+Vaalit käydään 1.11.–15.11.2017! Jos sinulla on opiskelijakortti, saat äänestysohjeet Metropolia-sähköpostiisi äänestyksen alkaessa.
 
-* [Demonin lautapeli-ilta](https://www.facebook.com/events/840155366163263/) &ndash; tiistai 24.10.
-
-Lisää meininkiä löytyy [Demonin Facebook-sivun](https://www.facebook.com/opiskelijayhdistysdemoni/) jokasunnuntaisesta viikkokatsauksesta!
+Muista äänestää ja vaikuttaa opiskelijakuntasi tulevaisuuteen!
