@@ -56,9 +56,9 @@ Lue opiskelijakortista ja sen hankkimisesta lisää sivulta [Opiskelijakortti ja
 
 ## Rahaa, lainaa ja pirusti lomakkeita {#kela}
 
-[Kelan opiskelijoiden tuet](http://www.kela.fi/opintotuki) muuttuvat elokuusta&nbsp;2017 alkaen niin, että opintorahan taso pienenee toisen asteen opiskelijoiden kanssa samalle tasolle (enintään 250,28&nbsp;&euro;/kk), asumislisä lakkautetaan ja opintolainan valtiontakaus nousee 650&nbsp;euroon kuukaudessa.
+[Kelan opiskelijoiden tuet](http://www.kela.fi/opintotuki) muuttuivat elokuusta&nbsp;2017 alkaen niin, että opintorahan taso pieneni toisen asteen opiskelijoiden kanssa samalle tasolle (enintään 250,28&nbsp;&euro;/kk), asumislisä lakkautettiin ja opintolainan valtiontakaus nousi 650&nbsp;euroon kuukaudessa.
 
-Opiskelijat siirtyvät [yleisen asumistuen](http://www.kela.fi/yleinen-asumistuki) piiriin, jolloin asumisen tuen ehdot muuttuvat. Yksin asuville se tarkoittaa pääsääntöisesti tuen nousua, kun taas pariskunnilla tuet mahdollisesti laskevat. Kelalta löytyy [laajempi info ja muistilista opintotuen muutoksista](http://www.kela.fi/opiskelijoiden-tukien-muutokset).
+Opiskelijat siirtyivät [yleisen asumistuen](http://www.kela.fi/yleinen-asumistuki) piiriin, jolloin asumisen tuen ehdot muuttuivat. Kelalta löytyy [laajempi info ja muistilista opintotuen muutoksista](http://www.kela.fi/opiskelijoiden-tukien-muutokset).
 
 Muista hakea opintotukea *ajoissa* eli vaikka nyt heti! Osoitetiedot voi päivittää myöhemmin, jos ne vielä muuttuvat. Opintotuen voi hakea näppärästi [Kelan sähköisessä asiointipalvelussa](https://easiointi.kela.fi/go_app).
 
