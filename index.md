@@ -3,7 +3,7 @@ layout: home
 photo: "/assets/photos/lautapeli-ilta.jpg"
 ---
 
-Edustajistovaalit lähestyvät!
+Edustajistovaalit ovat täällä!
 
 Edustajisto käyttää opiskelijakunta METKAn ylintä päätösvaltaa ja määrittää opiskelijajärjestön toiminnan suunnan. Vaaleissa on jälleen ehdolla liuta kulttuurialojen opiskelijoita. Käy tutustumassa heihin [METKAn vaalisivulla](http://metka.metropolia.fi/vaalit/ehdokkaat/) kulttuurialan vaaliliitto Kuplan alta.
 
