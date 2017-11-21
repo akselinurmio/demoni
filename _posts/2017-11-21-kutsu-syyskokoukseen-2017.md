@@ -15,7 +15,7 @@ Yhdistyksen kokoukseen tervetulleita ja kokouksessa äänivaltaisia ovat yhdisty
 
 Asialistalla on toimintasuunnitelma, talousarvio, toiminnantarkastajan valinta sekä uuden hallituksen valinta vuodelle 2018. Kokouksen [esityslista kokonaisuudessaan löytyy ohesta](https://drive.google.com/file/d/1PaTgmsQ8Ug6lNg3MmN29bzgTs4pOWmFo/view?usp=sharing).
 
-Kokouksessa hallitukseen hakijoilla on mahdollisuus esitellä itsensä. Hakemukset hallitukseen voi toimittaa etukäteen [tänne](https://goo.gl/forms/tTjZ9aXOes7ZxIMQ2). Ehdolle voi asettua myös vasta kokouksen aikana.
+Kokouksessa hallitukseen hakijoilla on mahdollisuus esitellä itsensä. Hakemukset hallitukseen voi toimittaa etukäteen [tänne](https://goo.gl/forms/SIlEK3bwYLyLB3sg1). Ehdolle voi asettua myös vasta kokouksen aikana.
 
 Lisätietoja:<br>
 Nea-Maria Törmänen<br>
