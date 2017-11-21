@@ -3,10 +3,8 @@ layout: home
 photo: "/assets/photos/lautapeli-ilta.jpg"
 ---
 
-Edustajistovaalit ovat täällä!
+Syyskokous tulloo!
 
-Edustajisto käyttää opiskelijakunta METKAn ylintä päätösvaltaa ja määrittää opiskelijajärjestön toiminnan suunnan. Vaaleissa on jälleen ehdolla liuta kulttuurialojen opiskelijoita. Käy tutustumassa heihin [METKAn vaalisivulla](http://metka.metropolia.fi/vaalit/ehdokkaat/) kulttuurialan vaaliliitto Kuplan alta.
+Asialistalla on toimintasuunnitelma, talousarvio, toiminnantarkastajan valinta sekä uuden hallituksen valinta vuodelle 2018. Kokous järjestetään ti 28.11.2017 Tavi-talolla (Hämeentie 161, Helsinki).
 
-Vaalit käydään 1.11.–15.11.2017! Jos sinulla on opiskelijakortti, saat äänestysohjeet Metropolia-sähköpostiisi äänestyksen alkaessa.
-
-Muista äänestää ja vaikuttaa opiskelijakuntasi tulevaisuuteen!
+[Lue lisää täältä.](/kutsu-ensimmaiseen-yhdistyksen-ylimaaraiseen-kokoukseen-2017/)
