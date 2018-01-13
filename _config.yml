@@ -21,3 +21,4 @@ permalink: "/:title/"
 url: https://demoniry.fi
 kramdown:
   toc_levels: 1..2
+include: ["_redirects"]
