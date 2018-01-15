@@ -13,17 +13,23 @@ Laitathan Demonin [Facebook-sivun](https://www.facebook.com/opiskelijayhdistysde
 
 [Kysyhän meiltä lisää](#yhteystiedot), jos jokin jäi mietityttämään, ja tule ihmeessä mukaan järjestämään näitä ja muita tapahtumia!
 
-## Drink or Treat {#drinkortreat}
-
-*Drink or Treat -bileet* ovat Demonin perinteiset halloween-naamiaiset, ja tänä vuonna ne ovat taas täällä, pelottavampina kuin koskaan! Veret seisauttavia tarjouksia ja hyytävän hyviä drinkkejä Helsingin DTM:ssä. Näitä et halua missata!
-
 ## Uusia kavereita ja pelejä {#lautapeli-ilta}
 
 ![Lautapelaajia](/assets/photos/lautapeli-ilta.jpg)
 
-Haluatko päästä suututtamaan koko luokkasi, ennen kuin muistat edes kaikkien nimet? Meillä on ratkaisu! Lautapeli-illat!
+Haluatko päästä suututtamaan koko luokkasi, ennen kuin muistat edes kaikkien nimet? Meillä on ratkaisu! Lautapeli-ilta!
 
-*Demonin lautapeli-ilta* järjestetään joka toinen tiistai Arabiassa. Paikalla pääset pelaamaan niin loistavaksi todettuja klassikkoja kuin kuumimpia uutuuspelejäkin. Tarjolla on aina pientä purtavaa!
+*Demonin lautapeli-ilta* järjestetään joka toinen viikko Arabiassa. Paikalla pääset pelaamaan mukavassa seurassa niin loistavaksi todettuja klassikkoja kuin kuumimpia uutuuspelejäkin. Tarjolla on aina pientä purtavaa!
+
+Lautapeli-illoissa on joskus jokin teema, jonka puitteissa Demoni tuo paikalle pelejä. Voit tuoda pelattavaksi aina kuitenkin mitä tahansa pelejä! Ja toivoahan saa!
+
+<a href="https://www.lautapelit.fi/"><img src="/assets/yhteistyo-lautapelit-fi.png" alt="Lautapelit.fi:n logo" style="max-width: 20%;"></a>
+
+Ylpeänä esittelemme myös yhteistyökumppanimme lautapeli-illoissa: lauta- ja seurapelien maahantuoja, julkaisija sekä erikoisliike [Lautapelit.fi](https://www.lautapelit.fi/).
+
+## Drink or Treat {#drinkortreat}
+
+*Drink or Treat -bileet* ovat Demonin perinteiset halloween-naamiaiset, ja tänä vuonna ne ovat taas täällä, pelottavampina kuin koskaan! Veret seisauttavia tarjouksia ja hyytävän hyviä drinkkejä Helsingin DTM:ssä. Näitä et halua missata!
 
 ## Hei me sitsataan! {#sitsit}
 
