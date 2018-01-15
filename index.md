@@ -1,10 +1,10 @@
 ---
 layout: home
-photo: "/assets/photos/lautapeli-ilta.jpg"
+photo: "/assets/photos/vanhat-pelit.jpg"
 ---
 
-Tulevaisuus on täällä tänään! 🎉 Demonin uusi hallitus vuodelle 2018 on nyt valittu!
+Vuoden ensimmäinen lautapeli-ilta tulee ke 24.1.! Ja siitä tulee mahtava!
 
-Ensi vuoden puheenjohtajana jatkaa yksimielisesti Nea-Maria Törmänen. Varapuheenjohtajana toimii Otto Taipale. Hallituksen jäseniksi syyskokouksessa valittiin Lasse Ammann, Esko-Matti Helin, Roosa Hursti, Hanna-Sofia Jauhiainen, Anu Kantola, Noora Kokko, Janne Kovanen, Elina Kynnysmaa, Sanni Laitila, Akseli Nurmio, Juhana Salminen sekä Niklas Tilli.
+Uuden vuoden hömpötysten sijaan sukelletaan Tuottamon lämpöön pelaamaan lapsuudesta ja kalliolaisten baarien hyllyistä tuttuja pelejä!
 
-Onnea kaikille valituille! 🍾
+[Lue lisää Facebook-tapahtumasta!](https://www.facebook.com/events/739786816224066/ "Lautapeli-ilta 24.1. Facebookissa")
