@@ -4,6 +4,7 @@ order: 1
 headline: Demonilaisen opas
 description: Demoni on ikioma opiskelijayhdistyksesi ja olemme rakkaudella koostaneet
   infopaketin auttamaan valitsemallasi tiellä.
+photo: "/assets/photos/metropolia-kyltti.jpg"
 ---
 
 Onneksi olkoon opiskelupaikasta ja tervetuloa demonilaiseksi. Demoni on ikioma opiskelijayhdistyksesi ja olemme rakkaudella koostaneet infopaketin auttamaan valitsemallasi tiellä.
