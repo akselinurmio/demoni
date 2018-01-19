@@ -4,9 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title or page.headline %}{{ page.headline | default: page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    {% if page.url == '/' %}<meta name="description" content="{{ site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-    {% else %}<meta name="description" content="{{ page.description | default: page.content | strip_html | normalize_whitespace | truncate: 160 | escape }}">{% endif %}
+    <title>{% capture title %}{% if page.title or page.headline %}{{ page.headline | default: page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}{{ title }}</title>
+    {% if page.url == '/' %}<meta name="description" content="{% capture description %}{{ site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endcapture %}{{ description }}">
+    {% else %}<meta name="description" content="{% capture description %}{{ page.description | default: page.content | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endcapture %}{{ description }}">{% endif %}
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ description }}">
+    {% if page.photo %}<meta property="og:image" content="{{ page.photo | absolute_url }}">{% endif %}
+    <meta property="og:url" content="{{ page.url | delete: 'index.html' | absolute_url }}">
+    <meta property="og:site_name" content="{{ site.title | escape }}">
+    <meta name="twitter:card" content="summary_large_image">
 
     {% include favicon.html %}
 
