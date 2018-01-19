@@ -1,13 +1,13 @@
 ---
 title: Demoni ry
 timezone: Europe/Helsinki
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 longtitle: Metropolian kulttuurialan opiskelijayhdistys Demoni ry
 description: Demoni ry on Metropolia Ammattikorkeakoulun kulttuurin opiskelijoiden
   opiskelijayhdistys.
@@ -22,3 +22,4 @@ url: https://demoniry.fi
 kramdown:
   toc_levels: 1..2
 include: ["_redirects"]
+exclude: ["Gemfile", "Gemfile.lock", "package.json", "package-lock.json", "README.md"]
