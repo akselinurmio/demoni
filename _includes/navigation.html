@@ -12,6 +12,6 @@
 {% endfor %}
 {% assign extras = site.data.menu %}
 {% for extra in extras %}
-<li><a href="{{ extra.url }}"><span>{{ entry.title | escape }}</span></a></li>
+<li><a href="{{ extra.url }}"><span>{{ extra.title | escape }}</span></a></li>
 {% endfor %}
 {% endcapture %}{{ html | strip_newlines | remove: "  " }}
