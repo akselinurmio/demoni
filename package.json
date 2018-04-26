@@ -8,7 +8,7 @@
     "watch": "npm run postcss -- --watch & bundle exec jekyll build --watch",
     "serve": "npm run watch & browser-sync start --server _site/ --files _site/",
     "postcss": "postcss _styles/demoni.css --output assets/demoni.css --use postcss-import postcss-cssnext",
-    "postcss:build": "postcss _styles/demoni.css --output assets/demoni.css --use postcss-import postcss-cssnext cssnano"
+    "postcss:build": "postcss _styles/demoni.css --no-map --output assets/demoni.css --use postcss-import postcss-cssnext cssnano"
   },
   "dependencies": {
     "browser-sync": "^2.18.8",
