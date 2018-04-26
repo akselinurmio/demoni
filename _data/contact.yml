@@ -1,11 +1,10 @@
 addresses:
-  postal:
-    recipient: Demoni
-    street: |-
-      Metropolia Ammattikorkeakoulu
-      Hämeentie 161
-    postalcode: '00560'
-    town: Helsinki
+  postal: |-
+    PL 4040
+    00079 Metropolia
+  office: |-
+    Hämeentie 161
+    00560 Helsinki
 # phone:
 email: demoni@demoniry.fi
 ytunnus: '2748627-4'

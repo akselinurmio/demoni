@@ -18,11 +18,18 @@
 
       <div class="Sitefooter-col">
         <div class="Sitefooter-contact">{% assign contact = site.data.contact %}
-          <p class="postaladdress" property="address" typeof="PostalAddress">{% assign postal = contact.addresses.postal %}
-            <span property="name">{{ postal.recipient }}</span><br>
-            <span property="streetAddress">{{ postal.street | newline_to_br }}</span><br>
-            <span property="postalCode">{{ postal.postalcode }}</span> <span property="addressLocality">{{ postal.town }}</span>
+          {% if contact.addresses.postal %}
+          <p class="postaladdress with-icon" property="address" title="Postiosoite">
+            <svg class="icon-envelop"><use xlink:href="{{ "/assets/icons.svg#icon-envelop" | relative_url}}"></use></svg>
+            {{ contact.addresses.postal | newline_to_br }}
           </p>
+          {% endif %}
+          {% if contact.addresses.office %}
+          <p class="officeaddress with-icon" property="address" title="Käyntiosoite">
+            <svg class="icon-office"><use xlink:href="{{ "/assets/icons.svg#icon-office" | relative_url}}"></use></svg>
+            {{ contact.addresses.office | newline_to_br }}
+          </p>
+          {% endif %}
           {% if contact.phone %}<p class="phone" property="telephone">{{ contact.phone }}</p>{% endif %}
           <p class="email" property="email"><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
           <p class="ytunnus">Y-tunnus: {{ contact.ytunnus }}</p>

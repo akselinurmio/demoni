@@ -1,11 +1,14 @@
+# Kuka mitä häh väliaikaisena ohjauksena (302)
 /kmh https://docs.google.com/forms/d/e/1FAIpQLSf71USgCuVtg3aPkcg6JLhH6-lwYhKtt1yXny62E9F4o_a1sQ/viewform 302
 /kukamitahah https://docs.google.com/forms/d/e/1FAIpQLSf71USgCuVtg3aPkcg6JLhH6-lwYhKtt1yXny62E9F4o_a1sQ/viewform 302
-/whatsapp https://api.whatsapp.com/send?phone=358453320865&text=Heippa%21%20%F0%9F%91%8B%20Haluaisin%20Demonin%20parhaat%20palat%20WhatsAppilla.%20%F0%9F%98%88%20Nimeni%20on%20
-/facebook https://www.facebook.com/opiskelijayhdistysdemoni/
-/instagram https://www.instagram.com/demoni_ry/
+
+# Demonin somet pysyvänä ohjauksena (301)
+/whatsapp https://api.whatsapp.com/send?phone=358453320865&text=Heippa%21%20%F0%9F%91%8B%20Haluaisin%20Demonin%20parhaat%20palat%20WhatsAppilla.%20%F0%9F%98%88%20Nimeni%20on%20 301
+/facebook https://www.facebook.com/opiskelijayhdistysdemoni/ 301
+/instagram https://www.instagram.com/demoni_ry/ 301
 
 # RatikkAppr6
 /ratikkappr6 https://bailataan.fi/events/ed361b5c-b301-49a5-af8c-c301e9b405df 302
 
-# Verkkokaupan ohjaus
+# Verkkokaupan pysyvä ohjaus
 /kauppa https://holvi.com/shop/demoniry/ 301

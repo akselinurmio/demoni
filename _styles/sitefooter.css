@@ -53,3 +53,16 @@
     }
   }
 }
+
+.Sitefooter-contact {
+  & p.with-icon {
+    position: relative;
+    padding-left: 1.75em;
+
+    & svg {
+      position: absolute;
+      left: 0;
+      top: .3em;
+    }
+  }
+}
