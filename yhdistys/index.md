@@ -17,13 +17,15 @@ Demoni ry:n jäseniä ovat kaikki Metropolian kulttuurialojen opiskelijat, joita
 * muotoilu
   * sisustusarkkitehtuuri
   * tekstiilisuunnittelu
-  * teollinen muotoilu
+  * teollinen muotoilu
+  * XR Design
 * musiikki
 * vaatetusala
 * viestintä
   * 3D-animointi ja -visualisointi
   * digitaalinen viestintä
-  * graafinen suunnittelu
+  * graafinen suunnittelu
+  * XR Design
 
 ## Toiminta
 
