@@ -17,15 +17,15 @@ Demoni ry:n jäseniä ovat kaikki Metropolian kulttuurialojen opiskelijat, joita
 * muotoilu
   * sisustusarkkitehtuuri
   * tekstiilisuunnittelu
-  * teollinen muotoilu
-  * XR Design
+  * teollinen muotoilu
+  * XR Design
 * musiikki
 * vaatetusala
 * viestintä
   * 3D-animointi ja -visualisointi
   * digitaalinen viestintä
-  * graafinen suunnittelu
-  * XR Design
+  * graafinen suunnittelu
+  * XR Design
 
 ## Toiminta
 
@@ -35,7 +35,7 @@ Demoni ry järjestää ympäri vuoden erikokoisia ja erilaisia tapahtumia. Tekem
 
 Demoni ry:n toimintaan voi tulla mukaan kuka tahansa metropolialainen kulttuurin opiskelija! Yhdistyksen arkea ja toimintaa pyörittää yhdistyksen hallitus, joka valitaan vuosittain marras-joulukuussa vaaleilla yhdistyksen kokouksessa, jossa äänioikeutettuja ovat kaikki yhdistyksen jäsenet. Hallitushausta tiedotetaan nettisivuilla ja Facebookissa.
 
-Demonilla on myös aktiivijäseniä, jotka ovat mukana järjestämässä toimintaa omien kiinnostuksen kohteidensa mukaan. Aktiivit ovat olleet mukana esimerkiksi tapahtumien suunnittelussa ja järjestämisessä, nettisivujen uudistamisessa ja haalareiden hankinnassa. Demonin toiminta on aina tekijöidensä näköistä! Aktiivijäseneksi voi ilmoittautua milloin vain ottamalla yhteyttä hallituksen puheenjohtajaan. <!-- Löydät yhteystiedot täältä. -->
+Demonilla on myös aktiivijäseniä, jotka ovat mukana järjestämässä toimintaa omien kiinnostuksen kohteidensa mukaan. Aktiivit ovat olleet mukana esimerkiksi tapahtumien suunnittelussa ja järjestämisessä, nettisivujen uudistamisessa ja haalareiden hankinnassa. Demonin toiminta on aina tekijöidensä näköistä! Aktiivijäseneksi voi ilmoittautua milloin vain [ottamalla yhteyttä](/yhdistys/hallitus/ "Hallituksen yhteystiedot") hallituksen puheenjohtajaan.
 
 ## Demonilaisten tunnukset
 
