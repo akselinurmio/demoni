@@ -2,8 +2,7 @@
 title: Liikunta
 order: 3
 headline: Liikunta ja hyvinvointi
-description: Demoni ry on mukana luomassa terveellistä ja aktiivista
-  opiskelijaelämää.
+description: Demoni ry on mukana luomassa terveellistä ja aktiivista opiskelijaelämää.
 ---
 
 Demoni ry on mukana luomassa terveellistä ja aktiivista opiskelijaelämää.

@@ -1,9 +1,10 @@
 ---
 title: Kutsu syyskokoukseen 2017
-date: 2017-11-21 16:00:00 +03:00
+date: 2017-11-21 15:00:00 +02:00
 categories:
 - kokouskutsut
-description: Tervetuloa Metropolian kulttuurialan opiskelijayhdistys Demoni ry:n syyskokoukseen 2017!
+description: Tervetuloa Metropolian kulttuurialan opiskelijayhdistys Demoni ry:n syyskokoukseen
+  2017!
 layout: page
 ---
 
