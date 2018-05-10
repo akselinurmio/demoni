@@ -1,0 +1,7 @@
+.Button {
+  display: inline-block;
+  padding: .5em 1em;
+  text-decoration: none;
+  border: .2em solid var(--color-bg);
+  border-radius: .5em;
+}

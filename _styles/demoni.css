@@ -14,5 +14,8 @@
 @import "now";
 @import "introduction";
 
+/* Components */
+@import "button";
+
 /* BRUTALISM EASTER EGG STYLES */
 @import "brutalist";
