@@ -10,7 +10,7 @@
     "postcss:build": "postcss _styles/demoni.css --no-map --output assets/demoni.css --use postcss-import postcss-cssnext cssnano"
   },
   "dependencies": {
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.24.4",
     "cli-real-favicon": "0.0.6",
     "cssnano": "^3.10.0",
     "normalize.css": "^5.0.0",
