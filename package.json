@@ -3,18 +3,16 @@
   "name": "demoni",
   "description": "Demonin verkkosivut",
   "scripts": {
-    "build": "npm run postcss:build && bundle exec jekyll build",
+    "build": "npm run postcss && bundle exec jekyll build",
     "watch": "npm run postcss -- --watch & bundle exec jekyll build --watch",
     "serve": "npm run watch & browser-sync start --server _site/ --files _site/",
-    "postcss": "postcss _styles/demoni.css --output assets/demoni.css --use postcss-import postcss-cssnext",
-    "postcss:build": "postcss _styles/demoni.css --no-map --output assets/demoni.css --use postcss-import postcss-cssnext cssnano"
+    "postcss": "postcss '_styles/demoni.css' -o 'assets/demoni.css'"
   },
   "dependencies": {
-    "cssnano": "^3.10.0",
-    "normalize.css": "^5.0.0",
+    "normalize.css": "^8.0.0",
     "postcss-cli": "^5.0.0",
-    "postcss-cssnext": "^2.9.0",
-    "postcss-import": "^9.1.0"
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^11.1.0"
   },
   "devDependencies": {
     "browser-sync": "^2.24.4",

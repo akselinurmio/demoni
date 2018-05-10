@@ -1,31 +1,23 @@
-.Board {
+.Board ul {
+  list-style: none;
+  padding: 0;
+}
 
-  & ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  &--old {
-
-    @media (--sm) {
-
-      & ul {
-        display: flex;
-        flex-wrap: wrap;
-      }
-
-      & .Member {
-        width: 50%;
-      }
-
-      & .Member .keyinfo {
-        width: auto;
-      }
-
+.Board--old {
+  @media (--sm) {
+    & ul {
+      display: flex;
+      flex-wrap: wrap;
     }
 
-  }
+    & .Member {
+      width: 50%;
+    }
 
+    & .Member .keyinfo {
+      width: auto;
+    }
+  }
 }
 
 .Member {
