@@ -1,8 +1,10 @@
 ---
 layout: home
-photo: "/assets/photos/lautapeli-ilta.jpg"
+photo: "/assets/photos/tervetuloa.jpg"
 ---
 
-Tervetuloa Demoni ry:n yhdistyksen kokoukseen torstaina 17.5.!
+Viimeisetkin kulttuurilaiset ovat saaneet viestin ihkauudesta opiskelupaikastaan! Onneksi olkoon!
 
-[Lue kokouskutsu tästä!](/kutsu-kevatkokoukseen-2018/)
+Jännittääkö uusi koulu ja kenties paikkakunta? [Demonin fuksioppaasta](/opiskelu/) löydät kätevästi kaiken tarvittavan!
+
+Nähdään elokuussa!
