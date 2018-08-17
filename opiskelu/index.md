@@ -41,8 +41,8 @@ Pyöräreitit löytyvät myös HSL:ltä, [Pyöräilyn ja kävelyn reittioppaasta
 
 Halvalla kupunsa täyteen ahtaminen on monen opiskelijan lempipuuhaa ja siihen löytyy Arabiasta onneksi useampi vaihtoehto! Kaikkien kolmen toimipisteen välittömästä läheisyydestä löytyy opiskelijaravintola:
 
-* Arabia135: samassa talossa sijaitseva [Ravintola Arabianranta](http://www.compass-group.fi/Ravintolat/Helsinki/ravintola-arabianranta/Opiskelija-Lounaslista/)
-* Arabia153: 200&nbsp;metrin päästä löytyvä [Kipsari](http://kipsari.com/)
+* Arabiankatu 2: pop&jazz-konservatorion tiloissa toimii [Amica Jamipaja](https://www.fazerfoodco.fi/ravintolat/Ravintolat-kaupungeittain/helsinki/popjazz-konservatorio-jamipaja/)
+* Arabia135: pohjakerroksessa sijaitsee Compass Groupin opiskelijaravintola
 * Arabia161: talon oma [Sodexo](http://www.sodexo.fi/hameentie)
 
 Kaikki toimipisteet ovat myös kävelyetäisyydellä toisistaan, joten yhteen ei tarvitse tyytyä!
