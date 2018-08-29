@@ -10,4 +10,4 @@ Metropolia Ammattikorkeakoulun Arabian uudelle kampukselle ei ole nykyisten suun
 Vaadimme Metropolia Ammattikorkeakoululta selvitystä liikuntatiloista sekä aktiivisia toimia liikuntatilojen saamiseksi
 Arabian kampukselle.
 
-Lue koko kannanotto [täältä](https://demoniry.fi/kannanotto-arabian-kampuksen-liikuntat…/).
+Lue koko kannanotto [täältä](https://demoniry.fi/kannanotto-arabian-kampuksen-liikuntatiloista/).
