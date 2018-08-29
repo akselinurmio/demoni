@@ -19,11 +19,11 @@ Vaadimme Metropolialta selvitystä liikuntatiloista sekä aktiivisia toimia liik
 
 Nea-Maria Törmänen<br>
 hallituksen puheenjohtaja<br>
-Metropolian kulttuurialan opiskelijayhdistys Demoni ry
+Metropolian kulttuurialan opiskelijayhdistys Demoni ry<br>
 [nea-maria.tormanen@demoniry.fi](mailto:nea-maria.tormanen@demoniry.fi)
 
 
 Roosa Hursti<br>
 hallituksen liikuntavastaava<br>
-Metropolian kulttuurialan opiskelijayhdistys Demoni ry
+Metropolian kulttuurialan opiskelijayhdistys Demoni ry<br>
 [roosa.hursti@demoniry.fi](mailto:roosa.hursti@demoniry.fi)
