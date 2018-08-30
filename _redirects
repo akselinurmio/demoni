@@ -12,3 +12,7 @@
 
 # Verkkokaupan pysyvä ohjaus
 /kauppa https://holvi.com/shop/demoniry/ 301
+
+# Vuosijuhlat 2018
+/vuosijuhlat https://bailataan.fi/events/a1dbbc9d-64d0-4a4b-a10c-8a783a5d67a1 302
+/annualcelebration https://bailataan.fi/events/a1dbbc9d-64d0-4a4b-a10c-8a783a5d67a1 302
