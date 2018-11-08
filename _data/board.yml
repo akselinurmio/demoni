@@ -2,7 +2,7 @@
   Nea-Maria Törmänen:
     task: puheenjohtaja
   Juhana Salminen:
-    task: varapuheenjohtaja
+    task: varapuheenjohtaja, yhteistyö
   Anu Kantola:
     task: talousvastaava
   Otto Taipale:
@@ -17,12 +17,10 @@
     task: tapahtumavastaava
   Noora Kokko:
     task: tapahtumavastaava
-  Janne Kovanen:
-    task: haalari- ja kulttuurivastaava
   Elina Kynnysmaa:
     task: toimistovastaava
   Susanna Ronkainen:
-    task: viestintävastaava ja sakkopullomarsalkka
+    task: viestintävastaava
   Akseli Nurmio:
     task: lautapelikeisari ja virkistysasiainpäällikkö
   Niklas Tilli:
