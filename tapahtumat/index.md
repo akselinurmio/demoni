@@ -29,7 +29,7 @@ Ylpeänä esittelemme myös yhteistyökumppanimme lautapeli-illoissa: lauta- ja 
 
 ## Drink or Treat {#drinkortreat}
 
-*Drink or Treat -bileet* ovat Demonin perinteiset halloween-naamiaiset, ja tänä vuonna ne ovat taas täällä, pelottavampina kuin koskaan! Veret seisauttavia tarjouksia ja hyytävän hyviä drinkkejä Helsingin DTM:ssä. Näitä et halua missata!
+*Drink or Treat -bileet* ovat Demonin perinteiset halloween-naamiaiset.
 
 ## Hei me sitsataan! {#sitsit}
 
