@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby "2.4.3"
 
-gem "jekyll", "3.7.0"
+gem "jekyll", "3.7.4"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

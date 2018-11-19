@@ -9,13 +9,13 @@
     "postcss": "postcss '_styles/demoni.css' -o 'assets/demoni.css'"
   },
   "dependencies": {
-    "normalize.css": "^8.0.0",
-    "postcss-cli": "^5.0.0",
-    "postcss-cssnext": "^3.1.0",
-    "postcss-import": "^11.1.0"
+    "normalize.css": "^8.0.1",
+    "postcss-cli": "^6.0.1",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.4.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.24.4",
+    "browser-sync": "^2.26.3",
     "cli-real-favicon": "0.0.6"
   }
 }
