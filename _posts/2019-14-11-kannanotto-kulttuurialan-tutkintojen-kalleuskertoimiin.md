@@ -49,7 +49,7 @@ Roope Paasonen<br>
 Hallituksen puheenjohtaja<br>
 Tampereen ammattikorkeakoulun opiskelijakunta
 
-Anna Palmén<br>
+Anna Palmén<br>
 Hallituksen puheenjohtaja<br>
 Lahden Muotoiluinstituutin opiskelijayhdistys ry
 
