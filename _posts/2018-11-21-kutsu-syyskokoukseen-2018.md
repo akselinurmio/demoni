@@ -37,6 +37,7 @@ Nähdään kokouksessa!
 Ystävällisin terveisin,<br>
 Nea-Maria Törmänen<br>
 puheenjohtaja<br>
+Metropolian kulttuurialan opiskelijayhdistys Demoni ry<br>
 
 <!-- Yllä mainittu henkilö pakotti Akseli Nurmion laittamaan tämän esityslistan inter-netsiin Janne Leväseltä anastetulla tietokoneella 15 minuuttia ennen laittoman syyskokouksen syntyä 21.11.2018 klo 23.45 Ravintola Hemingway'sissa Hietalahden torin tuntumassa. -->
-Metropolian kulttuurialan opiskelijayhdistys Demoni ry<br>
+
