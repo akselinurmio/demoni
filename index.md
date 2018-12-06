@@ -3,6 +3,22 @@ layout: home
 photo: "/assets/photos/tervetuloa.jpg"
 ---
 
-Tervetuloa Metropolian kulttuurialan opiskelijayhdistys Demoni ry:n sääntömääräiseen syyskokoukseen keskiviikkona 28.11. klo 17 Arabia135een, seminaaritilaan ARC1-39A1!
+Saanemme esitellä - Demonin puheenjohtajisto ja hallitus 2019!
 
-[Lue koko kokouskutsu täältä!](/kutsu-syyskokoukseen-2018/)
+Puheenjohtaja
+Anu Kantola
+
+Varapuheenjohtaja
+Elina Kynnysmaa
+
+Hallitus
+Noora Kokko
+Mikko Markus Aaltio
+Niko Karumaa
+Roosa Hursti
+Pia Blomstén
+Iina Pätsi
+Tiiu Poikonen
+Pinja Valkama
+
+Onnea valituille ensi vuoden haasteisiin! 😈💗
