@@ -12,7 +12,7 @@ Varapuheenjohtaja
 Elina Kynnysmaa
 
 Hallitus
-Noora Kokko
+Noora Kokko <br>
 Mikko Markus Aaltio
 Niko Karumaa
 Roosa Hursti
