@@ -1,9 +1,9 @@
 ---
 layout: home
-photo: "/assets/photos/tervetuloa.jpg"
+photo: "/assets/photos/demonitalvi.png"
 ---
 
-Saanemme esitellä - Demonin puheenjohtajisto ja hallitus 2019!
+Saanemme esitellä – Demonin puheenjohtajisto ja hallitus 2019!
 
 Puheenjohtaja<br>
 Anu Kantola
@@ -20,5 +20,5 @@ Pia Blomstén<br>
 Iina Pätsi<br>
 Tiiu Poikonen<br>
 Pinja Valkama<br>
-<br>
+
 Onnea valituille ensi vuoden haasteisiin! 😈💗
