@@ -1,13 +1,13 @@
 ---
 title: Kutsu kevätkokoukseen 2019
-date: 2019-04-29 17:00:00 +03:00
+date: 2019-04-29 16:00:00 +03:00
 categories:
 - kokouskutsut
-description: Tervetuloa Demoni ry:n yhdistyksen kokoukseen tiistaina 28.5. klo 17:00!
+description: Tervetuloa Demoni ry:n yhdistyksen kokoukseen tiistaina 28.5. klo 16:00!
 layout: page
 ---
 
-Tervetuloa Demoni ry:n yhdistyksen kokoukseen tiistaina 28.5. klo 17:00!
+Tervetuloa Demoni ry:n yhdistyksen kokoukseen tiistaina 28.5. klo 16:00!
 
 Yhdistyksen sääntömääräisessä kevätkokouksessa käsitellään tänä vuonna sääntömääräisten asioiden lisäksi hallituksen täydentäminen loppuvuodeksi edunvalvonnan osalta, joten jos olet kiinnostunut hallituspestistä tai haluat tästä lisätietoja, laita viestiä puheenjohtaja Anu Kantolalle osoitteeseen <anu.kantola@demoniry.fi>. Äänioikeutettuja ovat kaikki Metropolian kulttuurialan opiskelijat. Tule siis paikalle vaikuttamaan opiskelijayhdistyksen tulevaisuuteen!
 
