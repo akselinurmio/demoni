@@ -13,7 +13,7 @@ Yhdistyksen sääntömääräisessä kevätkokouksessa käsitellään tänä vuo
 
 Kevätkokouksen <a href="https://drive.google.com/open?id=1OxvKNA1_bY6MwEqDy5E_aDJgvduFF2KJ" target="_blank">esityslista</a>.
 
-Kokous pidetään Arabian kampuksen 3. kerroksessa, osoitteessa Hämeentie 135 D. Ilmoitathan mahdollisista allergioista etukäteen kokoustarjoiluja varten osoitteeseen <pia.blomsten@demoniry.fi>.
+Kokous pidetään Arabian kampuksen 3. kerroksen tilassa ARC3-44B1, osoitteessa Hämeentie 135 D. Ilmoitathan mahdollisista allergioista etukäteen kokoustarjoiluja varten osoitteeseen <pia.blomsten@demoniry.fi>.
 
 Lisätietoja kokouksesta antaa puheenjohtaja Anu Kantola, <anu.kantola@demoniry.fi>.
 
