@@ -1,24 +1,10 @@
 ---
 layout: home
-photo: "/assets/photos/demonitalvi.png"
+photo: "/assets/photos/tervetuloa.jpg"
 ---
 
-Saanemme esitellä – Demonin puheenjohtajisto ja hallitus 2019!
+Tervetuloa Metropolian kulttuurialan opiskelijayhdistys Demoni ry:n sääntömääräiseen kevätkokoukseen!
 
-Puheenjohtaja<br>
-Anu Kantola
+Demonin yhdistyksen kokous järjestetään Arabian kampuksen 3. kerroksessa, osoitteessa Hämeentie 135 D tiistaina 28.5. klo 16 alkaen.
 
-Varapuheenjohtaja<br>
-Elina Kynnysmaa
-
-Hallitus<br>
-Noora Kokko <br>
-Mikko Markus Aaltio<br>
-Niko Karumaa<br>
-Roosa Hursti<br>
-Pia Blomstén<br>
-Iina Pätsi<br>
-Tiiu Poikonen<br>
-Pinja Valkama<br>
-
-Onnea valituille ensi vuoden haasteisiin! 😈💗
+[Lue kokouskutsu tästä!](/kutsu-kevatkokoukseen-2019/)
