@@ -1,6 +1,6 @@
 ---
 layout: home
-photo: "/assets/photos/tervetuloa.jpg"
+photo: "/assets/photos/perus.jpg"
 ---
 
 Tervetuloa Metropolian kulttuurialan opiskelijayhdistys Demoni ry:n sääntömääräiseen kevätkokoukseen!
