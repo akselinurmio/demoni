@@ -146,7 +146,7 @@ Opiskelijatapahtumista pysyt helpoiten kärryillä seuraamalla [METKAa](https://
 * [Metropolian tapahtumat](http://www.metropolia.fi/ajankohtaista/tapahtumat/)
 * [Artovan tapahtumakalenteri](http://artova.fi/tapahtumat/tapahtumakalenteri)
 * [Stadissa.fi](http://www.stadissa.fi/)
-* [Helsinki.fi](https://www.helsinki.fi/fi)
+* [My Helsinki](https://www.myhelsinki.fi/fi)
 * [Visit Vantaa](https://www.visitvantaa.fi/)
 * [Visit Espoo](https://www.visitespoo.fi/fi/)
 
